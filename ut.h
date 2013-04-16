@@ -55,6 +55,7 @@ class Ut : public QDialog
 	public slots:
 		void read_write();
 		void newfile();
+		void newdir();
 		void inpfilename();
 		void newcat();
 		void observatory(int);

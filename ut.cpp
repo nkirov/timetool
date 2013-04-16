@@ -11,6 +11,7 @@ qDebug() << "start Ut";
 	connect(ui.file, SIGNAL(textChanged(QString)), this, SLOT(newfile()));
 	connect(ui.cat, SIGNAL(textChanged(QString)), this, SLOT(newcat()));
 	connect(ui.observatory, SIGNAL(currentIndexChanged(int)), this, SLOT(observatory(int)));
+	connect(ui.dir, SIGNAL(textChanged(QString)), this, SLOT(newdir()));
 	connect(ui.convert, SIGNAL(pressed()), this, SLOT(processing()));
 
 	connect(ui.LT2UT, SIGNAL(clicked()), this, SLOT(inpfilename()));	
@@ -39,7 +40,7 @@ bool Ut::read_cat()
 {
 qDebug() << "begin read_cat";
 	ui.observatory->clear();
-	QString catname("../data/" + ui.cat->text() + ".txt");
+	QString catname(ui.dir->text() + ui.cat->text() + ".txt");
 qDebug() << catname;
 	QFile inp(catname);
 	if (!inp.open(QFile::ReadOnly))
@@ -134,10 +135,14 @@ qDebug() << "no timetool.cfg file!";
 	QString catalog;
 	text >> catalog;
 	text >> index;
+	QString dir;
+	text >> dir;
 
 	ui.cat->setText(catalog);
 
 	ui.file->setText(fname);
+
+	ui.dir->setText(dir);
 
 	if (num == 1) 
 	{
@@ -169,7 +174,8 @@ qDebug() << "ERROR222";
 	text << ((ui.LT2UT->isChecked()) ? 1  : 2) << endl;
 	text << ui.file->text() << endl;
 	text << ui.cat->text() << endl;
-	text << ui.observatory->currentIndex();
+	text << ui.observatory->currentIndex() << endl;
+	text << ui.dir->text();
 	out.close();
 }	
 /************************************************************/
@@ -229,16 +235,16 @@ qDebug() << "h2hhmmss" << s;
 double Ut::ST2UT(QDateTime q)
 {
      double du  = q.date().toJulianDay() - 2451545;
-qDebug() << "JD= " << QString::number(du + 2451545, 'g', 16); 
+qDebug() << "JD= " << QString::number(du + 2451545, 'g', 16);
      double T = du/36525;
      double GMST1 = 24110.54841 + T*(8640184.812866 + 0.093104*T - 6.210e-6*T*T);
-     double LST = hours(q.time().hour(), q.time().minute(), q.time().second()); 
+     double LST = hours(q.time().hour(), q.time().minute(), q.time().second());
      double UT = LST - GMST1/3600.0 - longitude/15;
-qDebug() << "UT=" << UT << longitude;     
+qDebug() << "UT=" << UT << longitude;
      UT = UT/24;
-qDebug() << "UT/24" << UT;     
-     UT= 24*(UT - int(UT));  
-qDebug() << "UT=" << UT;     
+qDebug() << "UT/24" << UT;
+     UT= 24*(UT - int(UT));
+qDebug() << "UT=" << UT;
      return UT;           
 }
 
@@ -324,7 +330,7 @@ qDebug() << "end read_write";
 /********************** slots *****************************************/
 void Ut::newfile()
 {
-	QString s = "..\\data\\" + ui.file->text() + ui.label4->text();
+	QString s = ui.dir->text() + ui.file->text() + ui.label4->text();
 qDebug() << "newfile:" << s;
 	QFileInfo f(s);
 	if (f.isFile()) 
@@ -337,8 +343,9 @@ qDebug() << "newfile:" << s;
 			QString ss;
 			if (ui.LT2UT->isChecked()) ss = "_lt";
 			else ss = "_st";
-			ui.label12->setText(s.mid(3).replace(ss, "_ut"));
-			ui.label12->update();
+			s = ui.file->text() + ui.label4->text();
+			ui.outfile->setText(s.replace(ss, "_ut"));
+			ui.outfile->update();
 			
 			read_dst();
 		}
@@ -377,6 +384,20 @@ qDebug() << "newcat";
 		ui.convert->update();
 	}
 }
+
+void Ut::newdir()
+{
+qDebug() << "newdir";
+	if(read_cat())
+	{
+		newfile();
+	}
+	else
+	{
+		ui.convert->setDisabled(true);
+		ui.convert->update();
+	}
+}
 	
 void Ut::observatory(int index)
 {
@@ -386,7 +407,7 @@ qDebug() << "observatory" << index;
 	timezone = row[9].toInt();
 	longitude = hours(row[10].left(row[10].indexOf(' ')).toInt(), 
 			row[10].mid(row[10].indexOf(' ')).toDouble(), 0);
-	ui.lon->setText(row[9] + ", " + row[10]);
+	ui.lon->setText(row[9] + "; " + row[10]);
 }
 
 void Ut::processing()
