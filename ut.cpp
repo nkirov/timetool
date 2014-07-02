@@ -69,7 +69,7 @@ qDebug() << "ERROR!";
 				found = true;
 			}
 			ui.observatory->addItem(row[0] + "," + 
-				row[5] + "," + row[6] + "," + row[7]);
+				row[6]); //+ ", " + row[12] + ", " + row[13]);
 		}
 		i++;
 	}
@@ -237,7 +237,7 @@ double Ut::ST2UT(QDateTime q)
      double du  = q.date().toJulianDay() - 2451545;
 qDebug() << "JD= " << QString::number(du + 2451545, 'g', 16);
      double T = du/36525;
-     double GMST1 = 24110.54841 + T*(8640184.812866 + 0.093104*T - 6.210e-6*T*T);
+     double GMST1 = 24110.54841 + T*(8640184.812866 + 0.093104*T - 6.2e-6*T*T);
      double LST = hours(q.time().hour(), q.time().minute(), q.time().second());
      double UT = LST - GMST1/3600.0 - longitude/15;
 qDebug() << "UT=" << UT << longitude;
@@ -404,10 +404,10 @@ void Ut::observatory(int index)
 qDebug() << "observatory" << index;
 	QString line(obss[base + index]);
 	QStringList row = line.split('\t');
-	timezone = row[9].toInt();
-	longitude = hours(row[10].left(row[10].indexOf(' ')).toInt(), 
-			row[10].mid(row[10].indexOf(' ')).toDouble(), 0);
-	ui.lon->setText(row[9] + "; " + row[10]);
+	timezone = row[13].toInt();
+	longitude = hours(row[13].left(row[13].indexOf(' ')).toInt(), 
+			row[13].mid(row[13].indexOf(' ')).toDouble(), 0);
+	ui.lon->setText(row[12] + "; " + row[13]);
 }
 
 void Ut::processing()
