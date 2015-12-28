@@ -16,6 +16,7 @@ qDebug() << "start Ut";
 
 	connect(ui.LT2UT, SIGNAL(clicked()), this, SLOT(inpfilename()));	
 	connect(ui.ST2UT, SIGNAL(clicked()), this, SLOT(inpfilename()));
+    connect(ui.JD2UT, SIGNAL(clicked()), this, SLOT(inpfilename()));
 
 	red.setColor(QPalette::Base,QColor(Qt::red));
 	white.setColor(QPalette::Base,QColor(Qt::white));
@@ -148,11 +149,20 @@ qDebug() << "no timetool.cfg file!";
 	{
 		ui.LT2UT->setChecked(true);
 		ui.ST2UT->setChecked(false);
+        ui.JD2UT->setChecked(false);
+
 	}
-	else
+	else if (num == 2)
 	{
 		ui.LT2UT->setChecked(false);
 		ui.ST2UT->setChecked(true);
+        ui.JD2UT->setChecked(false);
+	}
+    else // if (num == 3)
+    {
+		ui.LT2UT->setChecked(false);
+		ui.ST2UT->setChecked(false);
+        ui.JD2UT->setChecked(true);
 	}
 
 	ui.observatory->setCurrentIndex(index);
@@ -171,7 +181,10 @@ qDebug() << "ERROR222";
 		return;
 	}
 	QTextStream text(&out);
-	text << ((ui.LT2UT->isChecked()) ? 1  : 2) << endl;
+//	text << ((ui.LT2UT->isChecked()) ? 1  : 2) << endl;
+    if (ui.LT2UT->isChecked()) text << 1 << endl;
+    else if (ui.ST2UT->isChecked()) text << 2 << endl;
+    else if (ui.JD2UT->isChecked()) text << 3 << endl;
 	text << ui.file->text() << endl;
 	text << ui.cat->text() << endl;
 	text << ui.observatory->currentIndex() << endl;
@@ -252,7 +265,7 @@ QString Ut::conv(QString s)
 {
 	const int TIME = 28;  
 
-      	int year = s.mid(TIME+0,4).toInt();
+    int year = s.mid(TIME+0,4).toInt();
 	int month = s.mid(TIME+4, 2).toInt();
 	int day = s.mid(TIME+6, 2).toInt();
 	QDate qdate(year, month, day);
@@ -292,6 +305,12 @@ qDebug() << sout;
 	return sout;
 }
 
+QString Ut::convJD(QString s)
+{
+qDebug() << "convJD"; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+    return s;
+}
+
 void Ut::read_write()
 {
 qDebug() << "begin read_write";
@@ -317,7 +336,8 @@ qDebug() << "ERROR2";
 	{
 		QString line(text1.readLine());
 		if (line.mid(42,1) != " ") text2 << line << endl;
-		else text2 << conv(line) << endl;
+		else if (ui.JD2UT->isChecked()) text2 << convJD(line) << endl;
+        else text2 << conv(line) << endl;
 	}
 	inp.close();
 	out.close();
@@ -366,7 +386,9 @@ qDebug() << "inpfilename";
 		ui.label4->setText("maindata_lt.txt");
 		read_dst();
 	}
-	else ui.label4->setText("maindata_st.txt");
+	else if (ui.ST2UT->isChecked()) ui.label4->setText("maindata_st.txt");
+    else ui.label4->setText("maindata_jd.txt");
+
 	ui.label4->update();
 	newfile();	
 }

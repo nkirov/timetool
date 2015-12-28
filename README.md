@@ -1,4 +1,4 @@
-﻿timetool
+timetool
 ========
 
 Timetool software transforms the time from local sidereal time (LST) or local time (LT) to universal time (UT). 

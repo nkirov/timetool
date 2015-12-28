@@ -28,6 +28,7 @@ class Ut : public QDialog
 		double JulianDate(QDateTime);
 		double ST2UT(QDateTime);
 		QString conv(QString);
+        QString convJD(QString);
 	
 		class Dstime {
 		public:	
