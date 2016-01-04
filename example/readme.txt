@@ -1,3 +1,5 @@
+
+
 input files:
 
 timetool.cfg:
@@ -6,18 +8,21 @@ timetool.cfg:
 POT015
 Cat5.7a
 0
-../../astroinformatics/data/
+data/
 ------------------
-"../astroinformatics/data/Cat5.7a.txt" 
+"data/Cat5.7a.txt" 
 "POT015.dst" 
-"../../astroinformatics/data/POT015/maindata_st.txt" 
+"data/POT015maindata_st.txt" 
 
 
-maindata_lt.txt
-maindata_st.txt
-maindata_jd.txt
+<id>maindata_lt.txt
+<id>maindata_st.txt
+<id>maindata_jd.txt
 
-ouput files:
+output files:
 
 timetool.cfg
-maindata_ut.txt
+<id>maindata_ut.txt
+
+
+../timetool.app/Contents/MacOS/timetool 

@@ -218,8 +218,8 @@ QString Ut::next_day(int y, int m, int d)
      const int M[13] = {0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
      if (d < M[m]) d++;
      else if (m != 2 && !(m == 12 && d == 31)) { m++; d = 1; } 
-     else if (m == 2 && !(y%4 != 0)) { m = 3; d = 1; }
-     else if (m == 2 && y%4 != 0 )  d = 29; 
+     else if (m == 2 && !(y%4 == 0)) { m = 3; d = 1; }
+     else if (m == 2 && y%4 == 0)  d = 29;
      else if (m == 12 && d == 31) { y++; m = 1; d = 1; } 
      else 
 qDebug() << "next_day: ERROR";
@@ -307,8 +307,23 @@ qDebug() << sout;
 
 QString Ut::convJD(QString s)
 {
-qDebug() << "convJD"; // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-    return s;
+    const int TIME = 28;
+    QString ss = s.mid(TIME, 12);
+    QStringList qss = ss.split('.');
+    qss[1] = "0." + qss[1];
+qDebug() << qss[0] << qss[1];
+    qlonglong jd = qss[0].toLongLong();
+    double part = qss[1].toDouble();
+    if (part >= 0.5) jd++;
+    QDate date = QDate::fromJulianDay(jd);
+qDebug() << date << jd;
+    QTime time(12,0);
+    time = time.addSecs(int(part*60*60*24));
+qDebug() << time;
+    QString sout = s.left(TIME) + date.toString("yyyyMMdd")
+        + time.toString("hhmmss") + s.mid(TIME+14);
+qDebug() << sout << "convJD"; 
+    return sout;
 }
 
 void Ut::read_write()

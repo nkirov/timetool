@@ -1,0 +1,485 @@
+ Catalogue of Wide-Field Plate Archives (version 5.7 January 2012)																															
+WFPDB Instrument Identifier		Original Name of the Instrument	Location of the Archive		Observatory			Marsden's No.	Time Zone	East Longitude	Latitude	Altitude	Clear Aperture		Mirror Diameter	Focal Length	Scale	Type	Field Size	Years of Operation		P/F	Number of Direct Plates		Orig.Plate Number from.. to..	Arch. Type	Number of Sp. Plates	Arch.  Type	Quality	Astronomer in Charge	
+			Site	Country	Name	Site	Country		h	o     '  	o     '  	m	m		m	m	"""/mm"		o	from	to		  								
+1			2	3	4	5	6	7	8	9	10	11	12		13	14	15	16	17	18	19	20	21		22	23	24	25	26	27	
+AAO390	**		Coonabarabran	Australia	Anglo–Australian Obs.	Coonabarabran	Australia	413	10	149 03.7	–31 16.4	1149			3.90	12.87	16	Rfl	1.3	1974			2424			C			A	S.Lee	
+ABA020			Kyiv	Ukraine	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580	2x	0.20		1.00	206	Ast	13.7	1990	1990		30			TC				O.Yizhakevych	
+ABA020			Mt. Kanobili	Georgia	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580	2x	0.20		1.00	206	Ast	13.7	1937			1396			T				D.Chipashvili	
+ABA039			Kyiv	Ukraine	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580		0.39	0.44	0.62	330	Sch	8.2	1987	1987	F	20			C				L.Pakuliak	
+ABA039			Mt. Kanobili	Georgia	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580		0.39	0.44	0.62	330	Sch	8.2	1938		F	30398			T				D.Chipashvili	
+ABA040A			Mt. Kanobili	Georgia	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580		0.40		7.60	27	Rfr	1.8	1937			7056			T				D.Chipashvili	
+ABA040B			Mt. Kanobili	Georgia	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580	2x	0.40		3.00	69	Ast	5.8	1978			4400			T				D.Chipashvili	
+ABA070			Mt. Kanobili	Georgia	Abastumani	Mt. Kanobili	Georgia	119	4	42 49.5	41 45.3	1580		0.70	1.00	2.10	98	Men	4.9	1955			18446			T	1747	T	A	D.Chipashvili	
+ALG033	**		Bouzareah	Algeria	Alger Obs.	Bouzareah	Algeria	008	1	03 02.1	36 48.1	345		0.33		3.43	60	Ast	2.5	1891	1975		5164	 		C				L.Bounatiro	
+AOT020		Zeiss Astrograph	Turin	Italy	Astr.Obs.Turin	Pino Torinese	Italy	022	1	07 46.5	45 02.3	618		0.20		1.14	180	Ast	11.0	1925	1988		3000	:		TC				B.Bucciarelli	
+AOT038		38 cm Photographic Refractor	Turin	Italy	Astr.Obs.Turin	Pino Torinese	Italy	022	1	07 46.5	45 02.3	618		0.38		6.88	30	Rfr	1.5	1970	1995		1200			TC				B.Bucciarelli	
+ASI040	***	40/50 cm Schmidt	Asiago	Italy	Asiago	Asiago	Italy	043	1	11 31.7	45 51.7	1045		0.40	0.50	1.00	206	Sch	6.9	1958	1992	F	18411			C	2006	C	A	P.Rafanelli	
+ASI067	***	67/92 cm Schmidt	Asiago	Italy	Asiago	Asiago	Italy	043	1	11 31.7	45 51.7	1045		0.67	0.92	2.15	96	Sch	5.3	1965	1992		16729			C	1087	C	A	P.Rafanelli	
+BAM003		"Zeiss-Tessar (30/13.5/1528"") "	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.03		0.14	1528	Cam		1931	1961		1000			T			A	U.Heber   	
+BAM004		"Small Schmidt (350/440/1250/165"")"	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.04	0.04	1.25	165	Sch		1962	1965		122			T			A	U.Heber   	
+BAM006		"Xenon (65/130/1587"") "	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.06		0.13	1587	Cam		1958	1960		400			T			A	U.Heber   	
+BAM007	***	Zeiss Objective 	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.07		0.25	825	Cam		1964	1965		481			C			A	U.Heber   	
+BAM009A		Tessar (90/405/509)	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.09		0.40	509	Cam		1932	1961		2000			T			A	U.Heber   	
+BAM009B		"Ernostar (92/166/1246"")"	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.09		0.17	1246	Cam		1958	1961		600			T			A	U.Heber   	
+BAM010A	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1972		2053			C			A	U.Heber   	
+BAM010B	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1972		2056			C			A	U.Heber   	
+BAM010C	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1972		2053			C			A	U.Heber   	
+BAM010D	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1963		52			C			A	U.Heber   	
+BAM010E	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1963		169			C			A	U.Heber   	
+BAM010F	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1963		174			C			A	U.Heber   	
+BAM010G	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1963		191			C			A	U.Heber   	
+BAM010H	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1972		1952			C			A	U.Heber   	
+BAM010I	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1972		1942			C			A	U.Heber   	
+BAM010J	***	Bloemfontein	Bamberg	Germany	Remeis Obs.- South. St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.10		0.61	338	Cam	13.0	1963	1972		1939			C			A	U.Heber   	
+BAM010K	***	Mt. John	Bamberg	Germany	Remeis Obs.- South. St.	Mt. John	New Zealand	474	12	170 28.0	–43 59.2	1029		0.10		0.61	338	Cam	13.0	1967	1976		1437			C			A	U.Heber   	
+BAM010L	***	Mt. John	Bamberg	Germany	Remeis Obs.- South. St.	Mt. John	New Zealand	474	12	170 28.0	–43 59.2	1029		0.10		0.61	338	Cam	13.0	1967	1976		1456			C			A	U.Heber   	
+BAM010M	***	Mt. John	Bamberg	Germany	Remeis Obs.- South. St.	Mt. John	New Zealand	474	12	170 28.0	–43 59.2	1029		0.10		0.61	338	Cam	13.0	1967	1976		1177			C			A	U.Heber   	
+BAM010N	***	Mt. John	Bamberg	Germany	Remeis Obs.- South. St.	Mt. John	New Zealand	474	12	170 28.0	–43 59.2	1029		0.10		0.61	338	Cam	13.0	1967	1976		1172			C			A	U.Heber   	
+BAM010O	***	San Miguel	Bamberg	Germany	Remeis Obs.- South. St.	San Miguel	Argentina		–5	–58 43.9	–34 33.4	37		0.10		0.61	338	Cam	13.0	1969	1972		134			C			A	U.Heber   	
+BAM010P	***	San Miguel	Bamberg	Germany	Remeis Obs.- South. St.	San Miguel	Argentina		–5	–58 43.9	–34 33.4	37		0.10		0.61	338	Cam	13.0	1969	1972		139			C			A	U.Heber   	
+BAM010Q	***	San Miguel	Bamberg	Germany	Remeis Obs.- South. St.	San Miguel	Argentina		–5	–58 43.9	–34 33.4	37		0.10		0.61	338	Cam	13.0	1969	1972		135			C			A	U.Heber   	
+BAM010R	***	San Miguel	Bamberg	Germany	Remeis Obs.- South. St.	San Miguel	Argentina		–5	–58 43.9	–34 33.4	37		0.10		0.61	338	Cam	13.0	1969	1972		136			C			A	U.Heber   	
+BAM010S	***	San Miguel	Bamberg	Germany	Remeis Obs.- South. St.	San Miguel	Argentina		–5	–58 43.9	–34 33.4	37		0.10		0.61	338	Cam	13.0	1969	1972		136			C			A	U.Heber   	
+BAM010T	***	San Miguel	Bamberg	Germany	Remeis Obs.- South. St.	San Miguel	Argentina		–5	–58 43.9	–34 33.4	37		0.10		0.61	338	Cam	13.0	1969	1972		129			C			A	U.Heber   	
+BAM010U		Aero Tessar	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.10		0.61	338	Cam	13.0	1961			150						A	U.Heber   	
+BAM011		Dogmar (110/50/417)	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.11		0.50	417	Cam		1931	1961		200						A	U.Heber   	
+BAM014A		UV Objective	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.14		0.14	1528	Cam		1925	1926		250						A	U.Heber   	
+BAM014B	***	" Ernostar (135/240/859"")"	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288		0.14		0.24	859	Cam	28.0	1928	1962		6400			C			A	U.Heber   	
+BAMAEK		Aero Ektar	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288						Cam		1964			150						A	U.Heber   	
+BAMVLI		Vierlinser	Bamberg	Germany	Remeis Obs.	Bamberg	Germany	521	1	10 53.4	49 53.1	288						Cam		1932	1962		150						A	U.Heber   	
+BEI040	 		Xing–Long	China 	Beijing	Xing–Long	China 	327	8	117 34.5	40 23.7	870	2x	0.40		2.00	103	Ast	8.0	1963										S.Lan	
+BEI060	**		Xing–Long	China 	Beijing	Xing–Long	China 	327	8	117 34.5	40 23.7	870		0.60	0.90	1.80	115	Sch	5.5	1963			3000			TC			B	S.Lan	
+BEL012		Ascania Refractor	Belgrade	Serbia	Belgrade	Belgrade	Serbia	057	1	20 31.0	44 48.2	253		0.12		1.00	206	Rfr	7.0	1970	1996		4000			T			B	V.Protic-Benishek	
+BEL016A		Zeiss Astrograph	Belgrade	Serbia	Belgrade	Belgrade	Serbia	057	1	20 31.0	44 48.2	253		0.16		0.80	258	Cam	11.0	1936	1985		10000			T			A	V.Protic-Benishek	
+BEL016B		Zeiss Refractor with Tessar and Petzval Cameras	Belgrade	Serbia	Belgrade	Belgrade	Serbia	057	1	20 31.0	44 48.2	253	2x	0.16		0.80	258	Cam	9.0	1936	1941		500			T			B	V.Protic-Benishek	
+BON			Brussels	Belgium	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533		0.34	0.50	1.37	140	Sch	3.5	1985	1998		250							T.Pauwels	
+BON011	**		Bonn	Germany	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533		0.11		0.65	317	Cam	3.0											M.Geffert	
+BON020	**		Bonn	Germany	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533		0.20	0.30	0.25	835	Sch	6.5											M.Geffert	
+BON030A	*		Bonn	Germany	Bonn	Bonn	Germany	520	1	07 04.1	50 09.8	91	2x	0.30		5.10	40	Rfr	1.8	1900	1964		600	:		T				M.Geffert	
+BON030A	**		Bonn	Germany	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533	2x	0.30		5.10	40	Rfr	1.8	1965	1993		1200	:		TC				M.Geffert	
+BON030B	**		Bonn	Germany	Bonn	Bonn	Germany	520	1	07 04.1	50 09.8	91		0.30		1.50	130	Ast	8.7	1931	1953		748			TC				M.Geffert	
+BON030B	**		Bonn	Germany	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533		0.30		1.50	130	Ast	8.7	1954	1968		200	:		TC				M.Geffert	
+BON030C	**		Bonn	Germany	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533		0.30		1.50	130	Ast	8.7	1968			2300	:		TC				M.Geffert	
+BON034	**		Bonn	Germany	Hoher List	Daun	Germany	017	1	06 51.0	50 09.8	533		0.34	0.50	1.37	140	Sch	3.5	1954			5232			TC				M.Geffert	
+BOR033	**		Floirac	France	Bordeaux	Floirac	France	999	1	00 31.7	44 50.1	73		0.33		3.47	59	Ast	2.5	1893			4151			C				M.Rapaport	
+BOR038		Grand Equatorial	Floirac	France	Bordeaux	Floirac	France	999	1	00 31.7	44 50.1	73		0.38		6.82	0.3	Cam	1.2				200			T				M.Rapaport	
+BOS051			Lembang	Indonesia	Bosscha	Lembang	Indonesia	299	7	107 37.0	–06 49.5	1300		0.51	0.71	1.27	162	Sch	5.0	1960			5000	:		T				B.Hidayat	
+BUC016	***		Bucharest	Romania	Bucharest	Bucharest	Romania	073	2	26 05.8	44 24.8	81		0.16		0.80	258	Cam	7.4	1930	1961		180			C			A	Gh.Bocsa	
+BUC038	***	Prin-Merz 	Bucharest	Romania	Bucharest	Bucharest	Romania	073	2	26 05.8	44 24.8	81		0.38		6.00	34	Rfr	2.3	1930	2005		10550			C			A	Gh.Bocsa	
+BYU053		53 cm Schmidt Telescope	Byurakan	Armenia	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		0.53	0.53	1.83	113	Sch	5.0	1958			20000			T			D	A.Mickaelian	
+BYU053		53 cm Schmidt Telescope	Kyiv	Ukraine	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		0.53	0.53	1.83	113	Sch	5.0	1985	1985		28			T			 	O.Yizhakevych	
+BYU053	*	53 cm Schmidt Telescope	Sofia	Bulgaria	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		0.53	0.53	1.83	113	Sch	5.0	1973	1981		150			C			A	M.Tsvetkov	
+BYU053		53 cm Schmidt Telescope	Szombathely	Hungary	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		0.53	0.53	1.83	113	Sch	5.0	1971			230			C			B	I.Jankovics	
+BYU100		1 m Schmidt Telescope	Byurakan	Armenia	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		1.00	1.50	2.13	97	Sch	4.0	1961			20000			T	4000	T	D	A.Mickaelian	
+BYU100		1 m Schmidt Telescope	Kyiv	Ukraine	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		1.00	1.50	2.13	97	Sch	4.0	1983	1983		15			T				O.Yizhakevych	
+BYU100	*	1 m Schmidt Telescope	Sofia	Bulgaria	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		1.00	1.50	2.13	97	Sch	4.0	1973	1981		400			C	50	T	A	M.Tsvetkov	
+BYU100		1 m Schmidt Telescope	Szombathely	Hungary	Byurakan	Byurakan	Armenia	123	4	44 17.5	40 20.1	1500		1.00	1.50	2.13	97	Sch	4.3	1968			200			C			B	I.Jankovics	
+CAN012			Canterbury	New Zealand	Canterbury	Mt John	New Zealand	474	12	172 30.0	–43 32.0	30		0.12		0.88	231	Ast		1966	1972		200			T			A	J.Hearnshaw	
+CAP033		CdC Astrograph	Cape Town	South Africa	Cape of Good Hope Obs.	Cape Town	South Africa	051	2	18 28.5	–33 56.0	10		0.33		3.43	60	Ast	2.0	1897	1912		1512								
+CAT033		Equatorial Steinheil	Serra la Nave	Italy	Catania	Serra la Nave	Italy	559	1	14 58.4	37 41.5	1735		0.33		3.43	60	Ast	2.7	1894	1932		1600	:		T				E.Marilli	
+CAT033		Equatorial Steinheil	Serra la Nave	Italy	Catania	Serra la Nave	Italy	559	1	14 58.4	37 41.5	1735		0.33		3.43	60	Ast	2.7	1956	1964		100	:		T				E.Marilli	
+CAT033		Equatorial Steinheil	Serra la Nave	Italy	Catania	Serra la Nave	Italy	559	1	14 58.4	37 41.5	1735		0.33		3.43	60	Ast	2.7	1985	1992		100	:		T				E.Marilli	
+CAT041		41/61 cm Schmidt	Serra la Nave	Italy	Catania	Serra la Nave	Italy	559	1	14 58.4	37 41.5	1735		0.41	0.61	1.22	168	Sch	4.2	1968	1992		1200			TC				E.Marilli	
+CER090			Brussels	Belgium	CERGA	Caussols	France	010	1	06 55.6	43 44.9	1272		0.90	1.52	3.16	65	Sch	5.2	1985	1998		300			 				T.Pauwels	
+CER090	**		Caussols	France	CERGA	Caussols	France	010	1	06 55.6	43 44.9	1272		0.90	1.52	3.16	65	Sch	5.2	1976			3000	:		TC				Ch.Pollas	
+CES051		Double Astrograph	New Haven	USA CT	Cesco Obs.	San Juan	Argentina	808	–3	–68 37.2	–31 30.6	700	2x	0.51				Ast	6.5	1965	1999		3090							W.van Altena	
+CLU0201	**	Prin Construction Refractor	Cluj-Napoca	Romania	Cluj-Napoca	Cluj-Napoca	Romania		2	23 53.5	46 46.5	412		0.20		3.00	69	Rfr	2.7	1952	1965		744			C				L.Mircea	
+CLU0202	**	Prin Construction Refractor	Cluj-Napoca	Romania	Cluj-Napoca	Cluj-Napoca	Romania		2	23 53.5	46 46.5	412		0.20		3.00	69	Rfr	2.7	1952	1963		380			C				L.Mircea	
+CLU0501	**	Newton Telescope	Cluj-Napoca	Romania	Cluj-Napoca	Cluj-Napoca	Romania		2	23 53.5	46 46.5	412			0.50	2.50	82	Rfl	1.7	1952	1974		4501			C				L.Mircea	
+CLU0502	**	Newton Telescope	Cluj-Napoca	Romania	Cluj-Napoca	Cluj-Napoca	Romania		2	23 53.5	46 46.5	412			0.50	2.50	82	Rfl	1.7	1952	1966		245			C				L.Mircea	
+COP045	***		Brorfelde	Denmark	Copenhagen Uni.	Copenhagen	Denmark	054	1	11 40.0	55 37.5	90		0.45	0.77	1.50	137	Sch	5.3	1966			813			C	551	C		K.Augustesen	
+COR029		 	Cambridge	USA MA	Cordoba Obs.	Cordoba	Argentina	822	-3	295 48.0	–31 25.3	434		0.29		 	52	Rfr	1.7	1872	1873		109							A.Doane	
+COR029		 	Cambridge	USA MA	Cordoba Obs.	Cordoba	Argentina	822	-3	295 48.0	–31 25.3	434		0.29		 	50	Rfr	1.7	1875	1882		1099							A.Doane	
+COR033		CdC Astrograph	Cordoba	Argentina	Cordoba Obs.	Cordoba	Argentina	822	-3	295 48.0	–31 25.3	434		0.33		3.43	60	Ast	2.0	1909	1913		1360								
+CRI012		Zeiss Double Astrograph	Odessa	Ukraine	Crimean Obs.–Simeiz	Simeiz	Ukraine	 094	3	33 59.8	44 24.2	300	2x	0.12		0.25	352	Ast	35.0	1909	1953		6900	:		T				S.Kashuba	
+CRI017A	***	Dogmar  	Crimea	Ukraine	Crimean Obs.–Simeiz	Simeiz	Ukraine	094	3	33 59.8	44 24.2	300		0.17		0.75	276	Cam	13.0	1948	1965		516			C	54	C	A	N.Bondar	
+CRI017B	***	Dogmar  	Crimea	Ukraine	Crimean Obs.–Nauchny	Nauchny	Ukraine	095	3	34 01.0	44 43.7	600		0.17		0.75	276	Cam	13.0	1951	1953		49			C			A	N.Bondar	
+CRI040A	***	Astrograph	Crimea	Ukraine	Crimean Obs.–Simeiz	Simeiz	Ukraine	094	3	33 59.8	44 24.2	300		0.40		1.60	129	Ast	10.0	1947	1948		59			C	159	C	A	N.Bondar	
+CRI040B	***	Double Astrograph	Crimea	Ukraine	Crimean Obs.–Nauchny	Nauchny	Ukraine	095	3	34 01.0	44 43.7	600	2x	0.40		1.60	129	Ast	10.0	1951	1965		215			C	296	C	A	N.Bondar	
+CRI040C		Double Astrograph	Crimea	Ukraine	Crimean Obs.–Nauchny	Nauchny	Ukraine	095	3	34 01.0	44 43.7	600	2x	0.40		1.60	129	Ast	10.0	1963	1998		9781			C			A	V.Rumyantsev	
+CRO020		Schmidt	"London, Ontario"	Canada	Cronyn Obs.	Uni.Western Ontario	Canada		-5	–77 49.0	43 30.0	251		0.20	0.30			Sch		1955	1974		531								
+CRO070			Pulkovo	Russia	Cerro el Roble	Cerro el Roble	Chile	805	–4	–71 01.2	–32 58.9	2220		0.70	0.98	2.10	98	Men	4.9	1962	1972									N.Bronnikova	
+CSS040	**		Moscow	Russia	Crimean South.St.	Nauchny	Russia	095	3	34 01.0	44 43.7	550		0.40		1.60	129	Ast	10.0	1958	1996		22400			TC				S.Shugarov	
+CSS050	**	AZT-5	Moscow	Russia	Crimean South.St.	Nauchny	Russia	095	3	34 01.0	44 43.7	550		0.50	0.70	2.00	103	Men	3.5	1958	1998		10000	:		TC	2000			S.Shugarov	
+DRA021		"8 1/4 "" Photographic Refractor"	Des Moines	USA IA	Drake Municipal Obs.	Des Moines	USA IA	742	-6	–93 29.6	41 35.8			0.21				Rfr		1920	1970		500			C				Ch.Nelson	
+DUS006			Dushanbe	Tajikistan	Dushanbe Inst. Astroph.	Dushanbe	Tajikistan	191	5	68 40.0	38 33.0	800		0.06		0.30	690	Cam	36.0	1940	1967		70000			T			B	V.Satyvoldiev	
+DYE061		"24"" Baker-Schmidt "	Nashville	USA TN	Dyer Obs.Vanderbilt Uni.	Brentwood	USA TN		-5	–86 48.3	36 03.1	345		0.61		2.08	99	Sch	5.0	1953			2720			T	1550	T		A.Heiser	
+EAO020			Kazan	Russia	Engelhardt Obs.	Kazan	Russia	136	3	48 48.9	55 50.3	98		0.20		2.00	103	Ast	6.0	1988	1995		600			T			B	N.Rizvanov	
+EAO035			Kazan	Russia	Engelhardt Obs.	Kazan	Russia	136	3	48 48.9	55 50.3	98		0.35	0.49	1.20	172	Men	4.1	1963	1995		4300			T	400	T	B	I.Dubjago	
+EAO038			Kazan	Russia	Engelhardt Obs.	Kazan	Russia	136	3	48 48.9	55 50.3	98		0.38	0.52	0.93	222	Sch	5.5	1940	1963		6000			T	200	T	B	I.Dubjago	
+EAO038			Kazan	Russia	Engelhardt South. St.	Alma-Ata	Kazakhstan	210	5	76 58.1	43 04.0	3000		0.38	0.52	0.93	222	Sch	5.5	1964	1977		13000			T	100	T	B	I.Dubjago	
+EAO038			Kazan	Russia	Engelhardt South. St.	Zelenchuk	Russia	114	2	41 26.6	43 39.2	2040		0.38	0.52	0.93	222	Sch	5.5	1978	1983		11000			T			B	I.Dubjago	
+EAO040A			Kazan	Russia	Engelhardt Obs.	Kazan	Russia	136	3	48 48.9	55 50.3	98		0.40		3.78	55	Ast	2.4	1973	1988		1000			T			BD	N.Rizvanov	
+EAO040B			Kazan	Russia	Engelhardt South. St.	Zelenchuk	Russia	114	3	41 26.6	43 39.2	2040		0.40		2.00	103	Ast	8.9	1975	1995		8000			T			B	N.Rizvanov	
+EAO040B			Kyiv	Ukraine	Engelhardt South. St.	Zelenchuk	Russia	114	3	41 26.6	43 39.2	2040		0.40		2.00	103	Ast	8.9	1982	1993		142			C			AB	V.Golovnya	
+ELG120			Elginfield	Canada	Elginfield Obs.  	Uni.Western Ontario	Canada	440	-5	–77 49.8	43 12.0	320			1.20	9.96	21	RCr	1.2	1969	1991		1783								
+ESO040	**	GPO	Brussels	Belgium	ESO	La Silla	Chile	809	–4	–70 43.8	–29 15.4	2347		0.40		4.03	51	Ast	2.3	1976	1993		8200			TC				T.Pauwels	
+ESO040		GPO	Garching	Germany	ESO	La Silla	Chile	809	–4	–70 43.8	–29 15.4	2347		0.40		4.00	51	Ast	2.2	1976			15100			TC			D	R.West	
+ESO040	**	GPO	Sofia	Bulgaria	ESO	La Silla	Chile	809	–4	–70 43.8	–29 15.4	2347		0.40		4.00	52	Ast	2.2	1985	1991		700			C			A	M.Tsvetkov	
+ESO100		ESO Schmidt	Brussels	Belgium	ESO	La Silla	Chile	809	-4	–70 43.8	–29 15.4	2347		1.00	1.60	3.06	67	Sch		1985	1998		1000							T.Pauwels	
+ESO100	***	ESO Schmidt	Garching	Germany	ESO	La Silla	Chile	809	–4	–70 43.8	–29 15.4	2347		1.00	1.60	3.06	67	Sch	3.6	1969			7530			C	525	C	A	R.West	
+GAO018			Szombathely	Hungary	Szombathely	Gothard Obs.	Hungary		1	16 31.5	47 15.8			0.18		2.36		Rfr		1892			100			C				I.Jankovics	
+GLL025			Flagstaff	USA AZ	Goethe Link–Lowell	Brooklyn	USA IN	760	–5	–86 23.7	39 33.0	300		0.25		1.75	120	Ast	3.3	1949	1967		6000			C				B.Skiff	
+GUA010A	***	TCA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211		0.10		0.50	412	Ast	20.0	1957	1961		438			C				V.Golovnya	
+GUA010B	***	TCA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211		0.10		0.50	412	Ast	20.0	1957	1961		277			C				V.Golovnya	
+GUA011A	***	TCA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211		0.11		1.20	172	Ast	8.0	1955	1957		35			C				V.Golovnya	
+GUA011B	***	TCA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211		0.11		1.20	172	Ast	8.0	1955	1957		55			C				V.Golovnya	
+GUA012A	***	DSA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.12		0.70	295	Ast	20.0	1949	1990		2041			C				L.Kizyun	
+GUA012B	***	DSA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.12		0.70	295	Ast	20.0	1949	1978		2143			C	7			L.Kizyun	
+GUA015	***	TCA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211		0.15		1.70	121	Ast	6.0	1955	1961		162			C				V.Golovnya	
+GUA040A	* 	DLA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.40		5.50	38	Ast	2.5	1949	1986		9500			T				S.Shatokhina	
+GUA040B	* 	DLA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.40		5.50	38	Ast	2.5	1949	1986		1000			T				S.Shatokhina	
+GUA040C	***	DWA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.40		2.00	103	Ast	8.5	1976	1998		4276			C				V.Golovnya	
+GUA040D	***	DWA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.40		2.00	103	Ast	8.5	1976	1997		1834			C				O.Yizhakevych	
+GUA040E	* 	DWA	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211	2x	0.40		2.00	103	Ast	6.5	1981	2005		3657			C				L.Kizyun	
+GUA070	* 	AZT2	Kyiv	Ukraine	Main Astron. Obs.	Kyiv	Ukraine	083	3	30 30.0	50 21.9	211			0.70	3.15	66	Rfl	1.0	1960	1973		566			C				L.Kizyun	
+HAM021			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.21		2.06	100	Ast	5.0	1930	1960		4000	:		T			A	D.Groote	
+HAM023			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.23		2.06	100	Ast	5.0	1973	1995		3000	:		T			A	D.Groote	
+HAM030A			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.30		1.50	137	Rfr		1914	1972		3000	:		C			A	D.Groote	
+HAM030B	**		Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.30		1.50	137	Rfr		1912	1961		8782			C			A	D.Groote	
+HAM034			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.34		3.40	60	Ast		1911	1957		3200	:		C			A	D.Groote	
+HAM036			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.36	0.44	0.62	330	Sch		1932	1973	F	180			T			A	D.Groote	
+HAM060			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.60		3.00	69	Rfr		1914	1930		500	:		T			A	D.Groote	
+HAM080			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41		0.80	1.20	2.40	86	Sch	5.5	1954	1975		5000	:		TC			A	D.Groote	
+HAM100			Hamburg	Germany	Hamburg Obs.	Bergedorf	Germany	029	1	00 41.0	53 28.8	41			1.00	3.00	69	Rfl		1913	1947		5800	:		T			A	D.Groote	
+HAR			Bamberg	Germany	Harvard	Cambridge	USA MA	802	-5	–71 07.8	42 22.8	24								1897	1905		115							U.Heber   	
+HAR001		Meteor Patrol Cameras (AI)	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.01		0.15	1200	Rfr	83.3	1901	1932		30268			T			B	A.Doane	
+HAR001		Meteor Patrol Cameras (AI)	Cambridge	USA MA	Harvard	Dona Ana	USA NM		-7					0.01		0.15	1200	Rfr	83.3	1948	1958		2840			T			B	A.Doane	
+HAR001		Meteor Patrol Cameras (AI)	Cambridge	USA MA	Harvard	Organ Pass	USA NM		-7					0.01		0.15	1200	Rfr	83.3	1957	1958		202			T			B	A.Doane	
+HAR001		Meteor Patrol Cameras (AI)	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.01		0.15	1200	Rfr	83.3	1932	1948		11327			T			B	A.Doane	
+HAR003		"1/1.5"" Cooke Lenses (AM)"	Cambridge	USA MA	Harvard	Chuquicamata	Chile		–4					0.03		0.32	600	Rfr	41.7	1923	1924		176			T			B	A.Doane	
+HAR003		"1/1.5"" Cooke Lenses (AM)"	Cambridge	USA MA	Harvard	San Jose	Peru		–4					0.03		0.32	600	Rfr	41.7	1924	1925		87			T			B	A.Doane	
+HAR003		"1/1.5"" Cooke Lenses (AM)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.03		0.32	600	Rfr	41.7	1899	1923		16457			T			B	A.Doane	
+HAR003		"1/1.5"" Cooke Lenses (AM)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.03		0.32	600	Rfr	41.7	1935	1954		11839			T			B	A.Doane	
+HAR004A		"1.5"" Cooke Lenses (AC)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.04		0.33	600	Rfr	41.7	1898	1934		32288			T			B	A.Doane	
+HAR004A		"1.5"" Cooke Lenses (AC)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.04		0.33	600	Rfr	41.7	1934	1957		10244			T			B	A.Doane	
+HAR004B		"1.5"" Ross-Xpress (FA)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.04		0.15	1200	Rfr	83.3	1936	1948		10761			T			B	A.Doane	
+HAR004B		"1.5"" Ross-Xpress (FA)"	Cambridge	USA MA	Harvard	Soledad Canyon	USA NM		-7					0.04		0.15	1200	Rfr	83.3	1948	1954		2919			T			B	A.Doane	
+HAR004B		"1.5"" Ross-Xpress (FA)"	Cambridge	USA MA	Harvard	Sacramento Pk	USA NM		-7					0.04		0.15	1200	Rfr	83.3	1958	1958		193			T			B	A.Doane	
+HAR004C		"1.5"" Ross (short focus) (BI)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.04		0.15	1200	Rfr	83.3	1941	1952		5660			T			B	A.Doane	
+HAR004D		Damon Patrols (DNR)	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.04		0.35	580	Rfr	40.3	1961	1981		1148			T			B	A.Doane	
+HAR004E		Damon Patrols (DNY)	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.04		0.35	580	Rfr	40.3	1962	1982		430			T			B	A.Doane	
+HAR004F		Damon Patrols (DNB)	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.04		0.35	580	Rfr	40.3	1962			6096			T			B	A.Doane	
+HAR004G		Damon Patrols (DSY)	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.04		0.35	580	Rfr	40.3	1970	1972		432			T			B	A.Doane	
+HAR004H		Damon Patrols (DSR)	Cambridge	USA MA	Harvard	Mt. John	New Zealand	474	12	170 28.0	–43 59.2	1029		0.04		0.35	580	Rfr	40.3	1981	1984		292			T			B	A.Doane	
+HAR004H		Damon Patrols (DSR)	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.04		0.35	580	Rfr	40.3	1970	1972		432			T			B	A.Doane	
+HAR004I		Damon Patrols (DSB)	Cambridge	USA MA	Harvard	Cerro Tololo	Chile	807	–4	–70 48.9	–30 09.9	2215		0.04		0.35	580	Rfr	40.3	1978	1979		192			T			B	A.Doane	
+HAR004I		Damon Patrols (DSB)	Cambridge	USA MA	Harvard	Mt. John	New Zealand	474	12	170 28.0	–43 59.2	1029		0.04		0.35	580	Rfr	40.3	1981			2234			T			B	A.Doane	
+HAR004I		Damon Patrols (DSB)	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.04		0.35	580	Rfr	40.3	1970	1973		464			T			B	A.Doane	
+HAR006		"2.5""Cooke Lens (CA)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–2	–71 07.8	42 22.8	24		0.06		0.33	600	Rfr	41.7	1934	1936		1302			T			B	A.Doane	
+HAR008A		"3"" Ross-Tessar Lens (AX)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.08		0.30	700	Rfr	48.6	1922	1924		450			T			B	A.Doane	
+HAR008A		"3"" Ross-Tessar Lens (AX)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 07.8	–16 22.5	2451		0.08		0.30	700	Rfr	48.6	1924	1926		1551			T			B	A.Doane	
+HAR008A		"3"" Ross-Tessar Lens (AX)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.08		0.30	700	Rfr	48.6	1927	1954		2830			T			B	A.Doane	
+HAR008A		"3"" Ross-Tessar Lens"	Sonneberg	Germany	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.08		0.30	700	Cam	38.9	1959	1959		95			T			A	P.Kroll	
+HAR008B		"3"" Ross-Fecker (RH)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.08		0.53	391	Rfr	27.1	1928	1932		4468			T			B	A.Doane	
+HAR008B		"3"" Ross-Fecker (RH)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.08		0.53	391	Rfr	27.1	1932	1963		11709			T			B	A.Doane	
+HAR008C	***	"Ross-B 3"""	Bamberg	Germany	Harvard-Boyden St	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.08		0.53	391	Rfr	14.0	1964	1966		467			C			A	U.Heber   	
+HAR008C		"3"" Ross-Fecker (RB)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.08		0.53	390	Rfr	27.1	1928	1952		17030			T			B	A.Doane	
+HAR008D		"3"" Ross (BM)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.08		0.53	390	Rfr	27.1	1934	1941		3222			T			B	A.Doane	
+HAR010		"4"" Ross-Lundin (RL)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.10		0.71	290	Rfr	20.1	1933	1962		5062			T			B	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.20		1.12	179	Rfr	12.4	1885	1888		3186		1-3186	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard	Willows	USA CA		-8					0.20		1.12	179	Rfr	12.4	1888	1889		109		3187-3296	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard	Mt. Harvard	Peru		-5					0.20		1.12	179	Rfr	12.4	1889	1890		2544		3301-5845	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.20		1.12	179	Rfr	12.4	1906	1907		16		37264-37280	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.20		1.12	179	Rfr	12.4				86		45182-45268	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	2	–71 33.0	–16 22.5	2451		0.20		1.12	179	Rfr	12.4	1891	1905		31417		5846-37263	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.20		1.12	179	Rfr	12.4	1907	1914		7900		37281-45181	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.20		1.12	179	Rfr	12.4	1915	1923		8485		45269-53754	C			A	A.Doane	
+HAR020A	***	"8"" Bache Doublet (B)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.20		1.12	179	Rfr	12.4	1930	1954		23109		53755-76864	C			A	A.Doane	
+HAR020A		"8"" Bache Doublet"	Sonneberg	Germany	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.20		1.12	179	Ast	9.9	1959	1959		314			T			A	P.Kroll	
+HAR020B		"8"" Draper Doublet (rework by Clark) (I)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.20		1.27	163	Rfr	11.5	1889	1934		52663			T			B	A.Doane	
+HAR020B		"8"" Draper Doublet (rework by Clark) (I)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.20		1.27	163	Rfr	11.5	1934	1946		6423			T			B	A.Doane	
+HAR020B		"8"" Draper Doublet (rework by Clark) (I)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.20		1.27	163	Rfr	11.5	1934	1934		158			T			B	A.Doane	
+HAR020C		"8"" Ross Lundin (IR)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.20		1.27	162	Rfr	11.5	1934	1976		12798			T			B	A.Doane	
+HAR020D		"8"" Harvard Refractor"	Tucson	USA AZ	Steward Obs.	Tucson	USA AZ	692	-7	–110 56.9	32 13.8	792		0.20		1.12	179	Rfr	12.4	1908	1922									T.Fleming	
+HAR025	***	" Metcalf 10"" (250/1240/167)"	Bamberg	Germany	Harvard-Boyden St	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.25		1.24	167	Rfr	19.9	1963	1965		2138		47791-49680	C			A	U.Heber   	
+HAR025	***	"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.25		1.24	167	Rfr	19.9	1915	1918		2513		1-2513	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard	Chuquicamata	Chile		–4					0.25		1.24	167	Rfr	19.9	1923	1924		198		8220-8418	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard	San Jose	Peru		–5					0.25		1.24	167	Rfr	19.9	1925	1925		16		8974-8992	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard	Chuquicamata	Chile		–4					0.25		1.24	167	Rfr	19.9	1925	1926		180		9923-10103	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.25		1.24	167	Rfr	19.9	1918	1923		5705		2514-8219	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.25		1.24	167	Rfr	19.9	1924	1924		558		8419-8973	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.25		1.24	167	Rfr	19.9	1925	1925		929		8993-9922	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet (MF)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.25		1.24	167	Rfr	19.9	1927	1955		30793		10104-40897	C			A	A.Doane	
+HAR025		"10"" Metcalf Triplet"	Sonneberg	Germany	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.25		1.24	167	Ast	9.3	1959	1959		490			T			A	P.Kroll	
+HAR030		"12"" Metcalf Doublet (MA)"	Cambridge	USA MA	Harvard	 	USA MA		-5					0.30		2.13	97	Rfr	5.0	1905	1913		1797		1-1797	C			A	A.Doane	
+HAR030		"12"" Metcalf Doublet (MA)"	Cambridge	USA MA	Harvard	Taunton	USA MA	803	-5					0.30		2.13	97	Rfr	8.1				288		1798-2086	C			A	A.Doane	
+HAR030		"12"" Metcalf Doublet (MA)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.30		2.13	97	Rfr	8.1	1923	1938		5209		2101-7310	C			A	A.Doane	
+HAR030		"12"" Metcalf Doublet (MA)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.30		2.13	97	Rfr	8.1	1938	1983		4426		7311-11737	C			A	A.Doane	
+HAR041	**	"16"" Metcalf Doublet (MC)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.41		2.11	98	Rfr	6.8	1909	1932		26093		1-26093	C			A	A.Doane	
+HAR041	**	"16"" Metcalf Doublet (MC)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.41		2.11	98	Rfr	6.8	1932	1988		14497		26094-40591	C			A	A.Doane	
+HAR061A	**	"24"" Bruce Doublet (A)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.61		3.43	60	Rfr	7.2	1893	1895		1730		1-1730	C			A	A.Doane	
+HAR061A	**	"24"" Bruce Doublet (A)"	Cambridge	USA MA	Harvard–Boyden St.	Arequipa	Peru	800	–5	–71 33.0	–16 22.5	2451		0.61		3.43	60	Rfr	7.2	1896	1926		12379		1731-14110	C			A	A.Doane	
+HAR061A	**	"24"" Bruce Doublet (A)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.61		3.43	60	Rfr	7.2	1929	1950		13393		14111-27504	C			A	A.Doane	
+HAR061B		"24"" Clark Reflector (H)"	Cambridge	USA MA	Harvard	Cambridge	USA MA	802	–5	–71 07.8	42 22.8	24		0.61		3.43	60	Rfr	1.6	1906	1932		3934			T			B	A.Doane	
+HAR061B		"24"" Clark Reflector (H)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.61		3.43	60	Rfr	1.6	1932	1953		2709			T			B	A.Doane	
+HAR061C		"24/33"" Jewett Schmidt (J)"	Cambridge	USA MA	Harvard–Oak Ridge St.	Harvard	USA MA	801	–5	–71 33.5	42 30.2	185		0.61	0.80	2.13	98	Sch	5.4	1942	1957		4770			T			B	A.Doane	
+HAR081		"32/36"" Baker-Schmidt Armagh-Dunsink-Harvard"	Armagh	UK N. Ireland	Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.81	0.91	3.03	68	Sch	4.7	1950	1963		355	:						J.McFarland	
+HAR081		"32/36"" Baker-Schmidt Armagh-Dunsink-Harvard"	Brussels	Belgium	Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.81	0.91	3.03	68	Sch	4.7	1964	1969		261	:						T.Pauwels	
+HAR081	**	"32/36"" Baker Schmidt (ADH)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.81	0.91	3.02	68	Sch	4.7	1950	1955		2100			C			B	A.Doane	
+HAR081		"32/36"" Baker Schmidt (ADH)"	Cambridge	USA MA	Harvard–Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387		0.81	0.91	3.02	68	Sch	4.7	1956	1963		3898			T			B	A.Doane	
+HEI015	 	"6"" Double Astrograph"	Heidelberg	Germany	Landessternwarte	Heidelberg	Germany	024	1	08 43.3	49 23.9	570	2x	0.15		0.80	 	Ast	12.5	1898	1939		7200			C				H.Mandel	
+HEI015	 	"6"" Double Astrograph"	Heidelberg	Germany	Max Wolf Obs.	Heidelberg	Germany	 	1	 	 	 	2x	0.15		0.80	 	Ast	12.5	1887	1897		1200			C				H.Mandel	
+HEI040	***	Bruce Double Astrograph	Heidelberg	Germany	Landessternwarte	Heidelberg	Germany	024	1	08 43.3	49 23.9	570	2x	0.40		2.03	102	Ast	8.0	1900	1990		10000			C				H.Mandel	
+HEI072		Waltz Reflector	Heidelberg	Germany	Landessternwarte	Heidelberg	Germany	024	1	08 43.3	49 23.9	570		0.72		2.80		Rfl	1.8	1906	1942		5200							H.Mandel	
+HEL033		CdC Astrograph	Helsingfors	Finland	Helsingfors Obs.	Helsinki	Finland	569 	2	24 57.0	60 09.7	30		0.33	 	3.43	60	Ast	2.0	1892	1909		1008			 				E.Isaksson	
+HIS040			Dushanbe	Tajikistan	Dushanbe Inst. Astroph.	Hiss. Obs.	Tajikistan	191	5	68 38.0	38 29.0	600		0.40		2.00	100	Ast	8.0	1967			4730			T			B	V.Satyvoldiev	
+IAO061	**	Curtis Schmidt 	Cerro Tololo 	Chile	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.9	–30 09.9	2215		0.61	0.91	2.14	97	Sch	5.2	1967	1994		34162			C			B	J.Marin	
+IAO061		Curtis Schmidt 	Flagstaff	USA AZ	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.9	–30 09.9	2215		0.61	0.91	2.14	97	Sch	5.2								1000			B.Skiff	
+IAO061		Curtis Schmidt	Montarey	USA CA	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.9	–30 09.9	2215		0.61	0.91	2.14	97	Sch	5.2	1970	1970		600							B.Weaver	
+IAO061		Curtis Schmidt	Muncie	USA IN	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.9	–30 09.9	2215		0.61	0.91	2.14	97	Sch	5.2	1984	1986		28							T.Roberson	
+IAO061		Curtis Schmidt 	Rosman	USA NC	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.9	–30 09.9	2215		0.61	0.91	2.14	97	Sch	5.2	1968	1986		3500				 			T.Barker	
+IAO150	**		Cerro Tololo 	Chile	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.0	–30 10.1	2399			1.50	11.50	18	RCr	1.0	1969	1990		3732			C			B	J.Marin	
+IAO400	**		Cerro Tololo 	Chile	Inter-American Obs.	Cerro Tololo	Chile	807	–4	–70 48.0	–30 10.1	2399			4.00	11.50	18	RCr	1.0	1974	1976		4270			C			B	J.Marin	
+JAG015			Cracow	Poland	Jagellonian Obs.	Fort Skala	Poland	555	1	19 49.6	50 03.3	314	2x	0.15		0.57	360	Ast	13.0	1968			452			T				M.K.–Winiarska	
+JAG035			Cracow	Poland	Jagellonian Obs.	Fort Skala	Poland	555	1	19 49.6	50 03.3	314		0.35	0.37	3.44	60	Men	1.0	1964			4000			T				M.K.–Winiarska	
+JEN060			Grossschwabhausen	Germany	Jena Univ. Obs.	Grossschwabhausen	Germany	134	1	11 29.0	50 55.8	356		0.60	0.90	1.80	115	Sch	5.1	1963			1132			T				R.Schielicke	
+UNI040			Flagstaff	USA AZ	Union Obs.	Johannesburg	South Africa	078	2	27 52.6	–26 10.9	1806		0.40		2.27	91	Cam	2.0	1950	1950		50							B.Skiff	
+KIS105	***		Kiso	Japan	Kiso	Kiso	Japan	381	9	137 37.7	35 47.6	1120		1.05	1.50	3.30	62	Sch	6.0	1977			5333			C	1395	C	A	Y.Nakada	
+KIT090			Kitt Peak	USA AZ	National Obs.	Kitt Peak	USA AZ	691	–7	–111 36.9	31 57.2	2084			0.90	6.80	30	Rfl	1.4	1960			4000			TC				B.Schoening	
+KIT400	**	Mayall 4m Telescope	Kitt Peak	USA AZ	National Obs.	Kitt Peak	USA AZ	691	–7	–111 36.9	31 57.2	2084			4.00	11.10	19	RCr	1.3	1973	1986		4144			C				B.Schoening	
+KLE040			Ceske Budejovice	Czech Republic	Klet	Klet	Czech Rep.	046	1	14 17.3	48 51.8	1070		0.40	0.50	1.03	200	Men	7.0	1968	1986	F	1800			T				J.Ticha	
+KLE063			Ceske Budejovice	Czech Republic	Klet	Klet	Czech Rep.	046	1	14 17.3	48 51.8	1070		0.63	0.85	1.87	110	Men	5.0	1976			4500			T				J.Ticha	
+KLE102			Ceske Budejovice	Czech Republic	Klet	Klet	Czech Rep.	046	1	14 17.3	48 51.8	1070			1.02	3.96	52	Rfl	1.0	1968	1980		2000			T				J.Ticha	
+KOE040		Bruce Astrograph (B)	Sonneberg	Germany	Koenigstuhl	Heidelberg	Germany	024	1	08 43.3	49 23.9	570		0.40		1.95	110	Ast	9.2	1957	1959		1184			T			A	P.Kroll	
+KON016			Budapest University	Hungary	Konkoly Obs.	Budapest	Hungary	053	1	18 57.9	47 30.0	466		0.16		2.24		Ast		1936	1957		4000							A.Holl	
+KON060	***	60/90 cm Schmidt	Budapest	Hungary	Konkoly Mnt. St.	Piszkesteto	Hungary	561	1	19 53.7	47 55.1	958		0.60	0.90	1.80	115	Sch	5.0	1962	1997		12300			C	800	C	A	A.Holl	
+KYI020			Kyiv	Ukraine	Kyiv University Obs.	Kyiv	Ukraine	085	3	30 30.1	50 21.9			0.20		4.30		Ast		1898	2004		2401			T				L.Kazantseva	
+LAO010			L'viv	Ukraine	L'viv University Obs.	L'viv	Ukraine	067	3	23 46.8	49 49.9	330		0.10		0.50	412	Ast	19.0	1939	1976		8339	:		TC			B	N.Virun	
+LCO102			Carnegie Obs.	USA CA	Las Campanas Obs.	Las Campanas	Chile	304	-4	–70 41.5	–29 00.9	2400			1.02	7.11	29	RCr	3.0	1971			15034							G.Carlson	
+LCO254			Carnegie Obs.	USA CA	Las Campanas Obs.	Las Campanas	Chile	304	-4	–70 41.5	–29 00.9	2400			2.54	19.05	11	RCr	2.1	1977										G.Carlson	
+LEI010A			Leiden	Netherlands	Leiden 	Leiden	Netherlands	013	1	00 41.0	53 28.8	6		0.10		0.52	397	Rfr	22.0	1924	1954		1700	:		T			A	I.van Houten	
+LEI010B			Leiden	Netherlands	Leiden 	Leiden	Netherlands	013	1	00 41.0	53 28.8	6		0.10		0.52	397	Rfr	22.0	1924	1954		1700	:		T			A	I.van Houten	
+LEI025A			Leiden	Netherlands	Leiden South.St.	Johannesburg	South Africa	078	2	28 05.1	–26 10.5	1750		0.25		1.13	183	Rfr	10.1	1910	1954		3250	:		T			A	I.van Houten	
+LEI025A			Leiden	Netherlands	Leiden South.St.	Hartebeesportdam	South Africa	081	2	27 52.6	–25 46.4	1220		0.25		1.13	183	Rfr	10.1	1954	1965		3250	:		T			A	I.van Houten	
+LEI025B			Leiden	Netherlands	Leiden South.St.	Johannesburg	South Africa	078	2	28 05.1	–26 10.5	1750		0.25		2.33	88	Rfr	4.9	1910	1954		3250	:		T			A	I.van Houten	
+LEI025B			Leiden	Netherlands	Leiden South.St.	Hartebeesportdam	South Africa	081	2	27 52.6	–25 46.4	1220		0.25		2.33	88	Rfr	4.9	1954	1965		3250	:		T			A	I.van Houten	
+LEI033			Leiden	Netherlands	Leiden 	Leiden	Netherlands	013	1	00 41.0	53 28.8	6		0.33		5.25	39	Rfr	1.7	1897			13900	:		T			A	I.van Houten	
+LEI040A			Leiden	Netherlands	Leiden South.St.	Johannesburg	South Africa	078	2	28 05.1	–26 10.5	1750		0.40		2.29	90	Rfr	7.5	1938	1957		925	:		T			A	I.van Houten	
+LEI040A			Leiden	Netherlands	Leiden South.St.	Hartebeesportdam	South Africa	081	2	27 52.6	–25 46.4	1220		0.40		2.29	90	Rfr	7.5	1957	1978		925	:		T			A	I.van Houten	
+LEI040B			Leiden	Netherlands	Leiden South.St.	Johannesburg	South Africa	078	2	28 05.1	–26 10.5	1750		0.40		2.29	90	Rfr	7.5	1938	1957		925	:		T			A	I.van Houten	
+LEI040B			Leiden	Netherlands	Leiden South.St.	Hartebeesportdam	South Africa	081	2	27 52.6	–25 46.4	1220		0.40		2.29	90	Rfr	7.5	1957	1978		925	:		T			A	I.van Houten	
+LEO150			Vienna	Austria	Vienna Univ. Obs.	Leopold–Figl	Austria	562	1	15 55.4	48 05.0	890			1.50	8.30	17	RCr	1.0	1972			700			T			B	A.Schnell	
+LIC013			Mt. Wilson	USA CA	Lick	Mt. Hamilton	USA CA	662	–8	–121 38.2	37 20.6	1290		0.13		0.89	233	Cam	18.8	1953	1955		200			T				E.Gates	
+LIC051		Carnegie Double Astrograph	Mt. Hamilton	USA CA	Lick	Mt. Hamilton	USA CA	662	–8	–121 38.2	37 20.6	1290	2x	0.51		3.75	55	Ast	6.0	1939	1989		11000			TC				E.Gates	
+LMC025		"10"" Astrograph"	Charlottesville	USA VA	Leander McCormick	Charlottesville	USA VA	780	–5	–78 31.4	38 02.0	264		0.25		1.15	180	Ast	12.5	1935	1950					T	4000			R.Patterson	
+LMC067		"26"" Clark Refractor"	Charlottesville	USA VA	Leander McCormick	Charlottesville	USA VA	780	–5	–78 31.4	38 02.0	264		0.67		9.82	22	Rfr	1.0	1914	1990		145000			C				R.Patterson	
+LOI152		152 cm G.D.Cassini Telescope	Bologna	Italy	Loiano	Loiano	Italy	598	1	11 20.2	44 15.5	785			1.52			Rfl	1.2	1976			15000								
+LOW012A		Brashear Photographic Doublet (B5)	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.12		0.89	230	Cam	6.4	1905	1907		100			T				B.Skiff	
+LOW012A		Brashear Photographic Doublet (B5)	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.12		0.89	230	Cam	6.4	1911	1916		1100							B.Skiff	
+LOW012B		Voightlander Camera (V)	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.12		0.80	257	Cam	7.0	1905	1907		100							B.Skiff	
+LOW015		Roettger Camera	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.15		0.67	260	Cam	8.0	1905	1907		100							B.Skiff	
+LOW020		Schmidt	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.20	0.30	0.20	1031	Sch	2.1	1932		F	500							B.Skiff	
+LOW022		"Swarthmore Brashear 9"" Camera (B9)"	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.22		1.10	170	Cam	4.7	1914	1916		600							B.Skiff	
+LOW033		Clark Triplet Astrograph	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.33		1.65	122	Ast	5.7	1929	1989		10000			TC				B.Skiff	
+LOW045		Brashear Photographic Refractor	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.45		3.60	57	Rfr	1.6	1894			250			TC				B.Skiff	
+LOW061		"24"" Clark Refractor "	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	–7	–111 39.9	35 12.2	2219		0.61				Rfr		1959	1965		1900							B.Skiff	
+LOW100		Clark Reflector	Flagstaff	USA AZ	Lowell	Flagstaff	USA AZ	690	-7	–111 39.9	35 12.2	2219			1.00	5.58	37	Rfl	1.0	1909	1951		10000			TC				B.Skiff	
+MAD040			Madrid	Spain	Madrid	Madrid	Spain	990	1	–03 41.1	40 24.6	670		0.40		2.00	103	Ast	8.6	1976			2000			T				J.Lahulla	
+MEL033		CdC Astrograph	Melbourne	Australia	Melbourne Obs.		Australia	907	10			907		0.33		3.43	60	Ast		1892	1927		1149							A. Vaughan	
+MER100			Merida	Venezuela	Llano del Hato	Merida	Venezuela	303	–4	–70 52.0	08 47.4	3610		1.00	1.52	3.00	68	Sch	5.7	1976			1184			T				N.Calvet	
+MEU040			Caussols	France	Meudon	Meudon	France	005	1	02 13.9	48 48.3	162		0.40	0.60	1.00	206	Sch	10.0	1961	1975	F	3293			T				Ch.Pollas	
+MIC061		"24"" Refractor"	East Lansing	USA MI	Michigan State Uni. Obs.	East Lansing	USA MI	766	-5	–84 28.9	42 42.4	264		0.61		1.83	113	Rfr	5.0	1970	1980		1300			T				H.Smith	
+MIN025		"10"" Refractor"	Minneapolis	USA MN	University of  MN	Minneapolis	USA MN	743	-6	-86 45.7	44 58.6			0.25		3.43		Rfr		1896	1946		413			C				R.Humphreys	
+MMO019	***	"7.5""Cooke/Clark Refractor"	Nantucket	USA MA	Maria Mitchell	Nantucket	USA MA	811	–5	–70 06.3	41 16.8	20		0.19		0.86	240	Rfr	16.6	1913	1995		7500			C			A	V.Strelnitski	
+MPI080	**	MPIA Schmidt 	Hamburg	Germany	MPI–Calar Alto	Calar Alto	Spain	493	1	02 32.2	37 13.8	2168		0.80	1.20	2.40	86	Sch	5.5	1980			534			C	1343	C	A	H.-J.Hagen	
+MPI080		MPIA Schmidt 	Heidelberg	Germany	MPI–Calar Alto	Calar Alto	Spain	493	1	02 32.2	37 13.8	2168		0.80	1.20	2.40	86	Sch	5.5	1983	2000		600			T				K.Birkle	
+MWH013			Mt. Wilson	USA CA	Mt. Wilson–Hale	Mt. Wilson	USA CA	672	–8	–118 03.6	34 13.0	1742		0.13		0.89	233	Cam	18.8	1942						T				A.Klemola	
+MWH025			Austin	USA TX	Boyden St.	Bloemfontein	South Africa	074	2	26 24.3	–29 02.3	1387	 	0.25	 	  	176	Cam	15.0	 	 						400	T	 	K.Henize †	
+MWH025			Mt. Wilson	USA CA	Mt. Wilson–Hale	Mt. Wilson	USA CA	672	–8	–118 03.6	34 13.0	1742		0.25				Cam	15.0	1952			200			T				K.Henize †	
+MYK012	*		Mykolayiv	Ukraine	Mykolayiv Obs.	Mykolayiv	Ukraine	089	3	32 07.5	46 58.3	55		0.12		2.04	101	Ast	5.0	1961	1999		8500			T			B	G.Pinigin	
+NAV030		"12"" Refractor"	"Washigton, DC"	USA DC	US Naval Obs. 	"Washigton, DC"	USA DC	786	-5	–77 04.0	38 55.3			0.30		4.50	46	Rfr	2.0	1920	1930		2000							B.Mason	
+NAV066		"26"" Refractor"	"Washigton, DC"	USA DC	US Naval Obs.  	"Washington, DC"	USA DC	786	-5	–77 04.0	38 55.3			0.66			120	Rfr		1958	1982		8600							B.Mason	
+NAV100		"40"" Telescope"	Flagstaff	USA AZ	US Naval Obs. Flagstaff St.	Flagstaff	USA AZ	690	-7	–111 39.9	35  12.2	2219			1.00	7.00	29	RCr					3000							B.Skiff	
+NAV100		"40"" Telescope"	San Diego	USA CA	US Naval Obs. Flagstaff St.	Flagstaff	USA AZ	690	-7	–111 39.9	35  12.2	2219			1.00	7.00	29	RCr		1955			100							P.Etzel	
+NAV100		"40"" Telescope"	"Washigton, DC"	USA DC	US Naval Obs. 	"Washigton, DC"	USA DC	786	-5	–77 04.0	38 55.3				1.00	7.00	29	RCr		1934	1955		400							B.Mason	
+NAV100		"40"" Telescope"	"Washigton, DC"	USA DC	US Naval Obs. Flagstaff St.	Flagstaff	USA AZ	690	-7	–111 39.9	35 12.2	2219	 		1.00	7.00	29	RCr		1955	1965		1000							C.Dahn	
+NAV155		"61"" Astrometric Reflector"	San Diego	USA CA	US Naval Obs. Flagstaff St.	Flagstaff	USA AZ	690	-7	–111 39.9	35 12.2	2219			1.55	15.20	14	Rfl	1.1	1964			100							P.Etzel	
+NAV155		"61"" Astrometric Reflector"	"Washigton, DC"	USA DC	US Naval Obs. Flagstaff St.	Flagstaff	USA AZ	690	-7	–111 39.9	35 12.2	2219			1.55	15.20	14	Rfl	1.1				1650							C.Dahn	
+NAV155		"61"" Astrometric Reflector"	"Washigton, DC"	USA DC	US Naval Obs. Flagstaff St.	Flagstaff	USA AZ	690	-7	–111 39.9	35 12.2	2219			1.55	15.20	14	Rfl	1.1	1976	1996		50000							B.Mason	
+NIC040			Caussols	France	Nice–Cote d'Azur	Caussols	France	020	1	07 18.1	43 43.4	372	2x	0.40		2.00	103	Ast	8.0	1933										Ch.Pollas	
+NIZ020		CdC Astrograph	Hyderabad	India	Nizamiah Obs.	Hyderabad 	India	218	6	78 27.0	17 25.9	554		0.20		3.38	61	Ast		1914	1928		1260								
+NLO			Sidmouth	UK England	Norman Lockyer Obs.	Sidmouth	UK England		0											1912	1960						6000	C		P.Goulev	
+NLO033			Sidmouth	UK England	Norman Lockyer Obs.	Sidmouth	UK England		0					0.33		3.43	60	Ast	2.6	1912	1960		2000	:		T				P.Goulev	
+ODE006A		Xenon  	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.06		0.12	 	Ast	30.0	1945	1957		2000	:		T				S.Kashuba	
+ODE006B		Ernostar 	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.06		0.12		Ast	30.0	1945	1957		2000	:		T				S.Kashuba	
+ODE007		3 Camera Astrograph Industar-163	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.07		0.30	 	Ast	30.0	1945	1957		2000	:		T				S.Kashuba	
+ODE010A		2 Camera Astrograph Industar-17	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.50	 	Ast	22.0	1945	1957		2000	:		T				S.Kashuba	
+ODE010B		3 Camera Astrograph Triplet	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.50	 	Ast	22.0	1945	1957		2000	:		T				S.Kashuba	
+ODE010C	*	7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	35.0	1957	1990		7100	:		T				S.Kashuba	
+ODE010D	*	7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	34.0	1957	1990		7100	:		T				S.Kashuba	
+ODE010E	*	7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	25.0	1957	1990		7100	:		T				S.Kashuba	
+ODE010F	*	7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	12.0	1957	1990		7100	:		T				S.Kashuba	
+ODE010G	*	7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	12.0	1957	1990		7100	:		T				S.Kashuba	
+ODE010H	*	7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	22.0	1957	1990		7100	:		T				S.Kashuba	
+ODE010I		7 Camera Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.10		0.25	288	Cam	18.0	1957	1990		7100	:		T				S.Kashuba	
+ODE015		Comet Astrograph	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.15		1.00	204	Ast	12.0	1945	1957		2000	:		T				S.Kashuba	
+ODE020		Schmidt Telescope	Odessa	Ukraine	Odessa	Odessa	Ukraine	086	3	30 45.5	46 28.6	60		0.20	0.40	 	474	Sch	6.0	1969	1980		2000	:		T				S.Kashuba	
+OHP			Brussels	Belgium	Obs. de Haute–Provence	Saint Michel	France	511	1	05 42.8	43 55.9	655						Sch		1985	1998		300							T.Pauwels	
+OHP030			Saint Michel	France	Obs. de Haute–Provence	Saint Michel	France	511	1	05 42.8	43 55.9	655		0.30	0.41	0.60	347	Sch	7.7			F	5442			T				S.Ilovaisky	
+OHP040		GPO	Saint Michel	France	Obs. de Haute–Provence	Saint Michel	France	511	1	05 42.8	43 55.9	655		0.40		4.00	51	Ast	2.2	1957						T				S.Ilovaisky	
+OHP040		 GPO	Saint Michel	France	Zeekoegat	Zeekoegat	South Africa							0.40		4.00	51	Ast	2.2	1961	 					T				S.Ilovaisky	
+OHP062		Schmidt Telescope	Saint Michel	France	Obs. de Haute–Provence	Saint Michel	France	511	1	05 42.8	43 55.9	655		0.62	0.90	2.08	99	Sch	4.1	1970	1997		7054			T				S.Ilovaisky	
+OND001A			Ondrejov	Czech Republic	Ondrejov	Ondrejov	Czech Rep.	557	1	14 47.0	49 54.6	530		0.01		0.03	6876	FEC	180.0	1975			3649			T			A	J.Borovicka	
+OND001B			Ondrejov	Czech Republic	Ondrejov	Ondrejov	Czech Rep.	557	1	14 47.0	49 54.6	530		0.01		0.03	6876	FEC	180.0	1976			2415			T			A	J.Borovicka	
+OND004A	**		Ondrejov	Czech Republic	Ondrejov	Ondrejov	Czech Rep.	557	1	14 47.0	49 54.6	530	10x	0.04		0.18	1146	Cam	36.0	1955	1977		10060			TC			A	J.Borovicka	
+OND004B	**		Ondrejov	Czech Republic	Ondrejov	Ondrejov	Czech Rep.	557	1	14 47.0	49 54.6	530	13x	0.04		0.18	1146	Cam	36.0	1958	1975		16060			C			A	J.Borovicka	
+OND008			Ondrejov	Czech Republic	Ondrejov	Ondrejov	Czech Rep.	557	1	14 47.0	49 54.6	530		0.08		0.36	573	Cam	38.2	1960							13400	T	A	J.Borovicka	
+OXF033		CdC Astrograph	Oxford	UK England	Oxford Obs.	Oxford	UK England	996	0	358 45.0	51 45.6	64		0.33		3.43	60	Ast	2.0												
+PAL046		"18"" Schmidt"	Palomar	USA CA	Palomar	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		0.46	0.66	0.91	227	Sch	10.0	1936	1978	F	4300	:		C				J.Mueller	
+PAL122	***	Palomar Schmidt	Baltimore	USA MD	Palomar	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7	1982	1985		620			C				B.McLean	
+PAL122		Palomar Schmidt	Basel	Switzerland	Palomar	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7	1947			1000			T				R.Fenkart	
+PAL122	**	Palomar Schmidt	Cracow	Poland	Palomar	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7				121			C			B	J.Machalski	
+PAL122	*	Palomar Schmidt	Heidelberg	Germany	Palomar 	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7	1960	1977		500	:		T			A	L. Schmadel	
+PAL122		Palomar Schmidt	Leiden	Netherlands	Palomar 	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7	1960	1977		500	:		T			A	I.van Houten	
+PAL122		Palomar Schmidt	Palomar	USA CA	Palomar	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7	1947	1978		17300	:		C				J.Mueller	
+PAL122	***	Palomar Schmidt	Pasadena	USA CA	Palomar	Mt. Palomar	USA CA	675	–8	–116 51.8	33 21.4	1706		1.22	1.83	3.07	67	Sch	6.7	1947	2002		30000	:		TC			B	G.Carlson	
+PAR033		CdC Astrograph	Paris	France	Paris Obs.	Paris	France	007	1	00 02.3	48 50.2	67		0.33		3.43	60	Ast	2.0	1891	1927		1261								
+PAZ030		Zeiss Triplet 	Sonneberg	Germany	La Paz St.	La Paz	Bolivia		–4	–66 07.5	–16 30.6			0.30		1.50	138	Cam	11.5	1926	1929		915			T			A	P.Kroll	
+PER033		CdC Astrograph	Perth	Australia	Perth Obs.	Perth	Australia	323	8	115 51.0	–31 57.1	60		0.33		3.43	60	Ast	2.0	1900	1919		1376								
+POT013A			Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.13		2.10	98	Rfr		1879	1908			:						R.v.Berlepsch	
+POT013B	***	Heliographic Objective	Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.13		1.36	152	Rfr	5.0	1888	1889		15							R.v.Berlepsch	
+POT015			Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.15		1.50	137	Cam	7.6	1908	1948		3000	:						R.v.Berlepsch	
+POT020			Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.20		3.40	61	Rfr	1.5	1879	1908					T			A	R.v.Berlepsch	
+POT025	***	25/30 cm Schmidt	Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.25	0.30	0.75	275	Sch	6.8	1949	1967	PF	405			C			B	R.v.Berlepsch	
+POT030A	***	Refractor	Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.30		5.40	38	Rfr	1.2	1879	1930		52			C				R.v.Berlepsch	
+POT030B	***	Refractor	Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107			0.30	0.90	229	Rfl	 	1906	1930		1500			 				R.v.Berlepsch	
+POT032	***		Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.32		3.43	60	Rfr	2.7	1889	1928		1500	:					B	R.v.Berlepsch	
+POT040A		Steinheil Objective (TA)	Sonneberg	Germany	Potsdam–Babelsberg	Potsdam	Germany	536	1	13 06.4	52 24.4	82		0.40		5.50	38	Rfr	1.7	1917	1938		1436			T			A	P.Kroll	
+POT040B			Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107			0.40	0.90	229	Rfl		1932	1948									R.v.Berlepsch	
+POT050	***	50/70 cm Schmidt	Potsdam	Germany	AIP Telegrafenberg	Potsdam	Germany	042	1	13 04.0	52 22.9	107		0.50	0.70	1.72	122	Sch	4.5	1952	1970		507			C				R.v.Berlepsch	
+POZ012			Poznan	Poland	Poznan	Poznan	Poland	047	1	16 52.7	52 23.8	85		0.12		0.53	389	Cam	13.0	1946	1970		797			T				K.Kurzynska	
+POZ020			Poznan	Poland	Poznan	Poznan	Poland	047	1	16 52.7	52 23.8	85		0.20		3.00	69	Rfr	3.5	1947			934			T				K.Kurzynska	
+POZ030			Poznan	Poland	Poznan	Poznan	Poland	047	1	16 52.7	52 23.8	85		0.30		1.50	138	Ast	6.9	1947			1200			T				K.Kurzynska	
+PRA100		"40"" Reflector"	Urbana-Champaign	USA IL	Prairie Obs.	Urbana-Champaign	USA IL		-6						1.00	7.60	27	Rfl	1.2	1969	1980		500							E.Olson	
+PUL010			Pulkovo	Russia	Pulkovo	Pulkovo	Russia	084	3	30 19.6	59 56.3	75	2x	0.10		0.71	300	Ast	15.0	1953			3000			TC			B	N.Bronnikova	
+PUL012			Mykolayiv	Ukraine	Pulkovo Obs.	Pulkovo	Russia	 084	3	30 19.6	59 56.3	75		0.12		2.04	101	Ast	5.0	1929	1931		 			T			B	G.Pinigin	
+PUL034			Pulkovo	Russia	Pulkovo	Pulkovo	Russia	084	3	30 19.6	59 56.3	75		0.34		3.46	60	Ast	2.0	1893			17000			TC			B	N.Bronnikova	
+PUL065			Pulkovo	Russia	Pulkovo	Pulkovo	Russia	084	3	30 19.6	59 56.3	75		0.65		10.00	20	Rfr	0.9	1960			18600			TC			B	N.Bronnikova	
+QUI021A		AFU-75	Kyiv	Ukraine	Quito Astron. Obs.	Quito	Ecuador	781	-4	–78 29.3	–00 12.6	2860		0.21		0.74	281	Cam	15.6	1986	1986		100			T				V.Golovnya	
+QUI021B		AFU-75	Kyiv	Ukraine	Quito Comet Station	Quito	Ecuador	782	-4	–78 21.0	00 00.0	2270		0.21		0.74	281	Cam	15.6	1986	1986		50			T				V.Golovnya	
+RGO015			Cambridge	UK England	Royal Greenwich Obs.	Greenwich	UK England	000	0	00 00.0	51 28.6	49		0.15		5.57	327	Cam	27.2	1905	1912		100	:						R.Argyle	
+RGO025			Cambridge	UK England	Royal Greenwich Obs.	Greenwich	UK England	000	0	00 00.0	51 28.6	49		0.25		1.15	180	Cam	15.0	1905	1912		206			T				R.Argyle	
+RGO033			Cambridge	UK England	Royal Greenwich Obs.	Greenwich	UK England	000	0	00 00.0	51 28.6	49	2x	0.33		3.43	60	Ast	2.7	1891	1956		20000			TC				R.Argyle	
+RGO033			Cambridge	UK England	Royal Greenwich Obs.	Herstmonceux	UK England	501	0	00 20.8	50 52.1	50	2x	0.33		3.43	60	Ast	2.7	1957	1988		 			TC				R.Argyle	
+RGO066			Cambridge	UK England	Royal Greenwich Obs.	Greenwich	UK England	000	0	00 00.0	51 28.6	49	2x	0.66		6.86	30	Ast	1.3	1897	1956					TC				R.Argyle	
+RGO066			Cambridge	UK England	Royal Greenwich Obs.	Herstmonceux	UK England	501	0	00 20.8	50 52.1	50	2x	0.66		6.86	30	Ast	1.3	1957	1988					TC				R.Argyle	
+RGO100			Cambridge	UK England	Royal Greenwich Obs.	La Palma	Spain	950	–1	–17 52.9	28 45.6	2326			1.00	8.06	26	Rfl	1.5	1984			1002			TC				R.Argyle	
+BAL080		Baldone Schmidt 	Riga	Latvia	Baldone Astroph. Obs.	Baldone	Latvia		3	24 24.0	56 47.0	75		0.80	1.20	2.40	86	Sch	4.5	1967	1998		22000			C	2300	C		A.Alksnis	
+BAL080R		Baldone Schmidt 	Riga	Latvia	Baldone Astroph. Obs.	Baldone	Latvia		3	24 24.0	56 47.0	75		0.80	1.20	2.40	86	Sch	4.5	1967	1998		22000			C	2300	C		A.Alksnis	
+ROB030		Triplet Zeiss	Brussels	Belgium	Royal Obs.Belgium	Uccle	Belgium	012	1	04 21.5	50 47.9	105		0.30		1.50	138	Ast	9.0	1924	1967		2300			C				T.Pauwels	
+ROB033		CdC Astrograph	Brussels	Belgium	Royal Obs.Belgium	Uccle	Belgium	012	1	04 21.5	50 47.9	105		0.33		3.43	60	Ast	2.6	1908	1950		1160			T				T.Pauwels	
+ROB040		Double Astrograph	Brussels	Belgium	Royal Obs.Belgium	Uccle	Belgium	012	1	04 21.5	50 47.9	105	2x	0.40		2.00	103	Ast	8.6	1933	1994		7000	:		TC				T.Pauwels	
+ROE040	**		Edinburgh	UK Scotland	Royal Obs.	Edinburgh	UK Scotland	961	0	–03 11.0	55 55.4	146		0.40	0.60	1.53	135	Sch	4.0	1962	1974		1497			C			A	S.Tritton	
+ROE040P	***		Edinburgh	UK Scotland	Royal Obs.	Edinburgh	UK Scotland	961	0	–03 11.0	55 55.4	146		0.40	0.60	1.53	135	Sch	4.0	1962	1974						827	C	A	S.Tritton	
+ROE091			Edinburgh	UK Scotland	Royal Obs.	Edinburgh	UK Scotland	961	0	–03 11.0	55 55.4	146			0.91	16.50	13	Rfl		1938	1963						1500	T	A	S.Tritton	
+ROM060			Campo Imperatore	Italy	Rome	Campo Imperatore	Italy	599	1	13 33.6	42 26.6	2200		0.60	0.90	1.83	113	Sch	6.0	1961	1970		960			T	770	T	B	G.Baratta	
+ROM060	***		Edinburgh	UK Scotland	Rome	Campo Imperatore	Italy	599	1	13 33.6	42 26.6	2200		0.60	0.90	1.83	113	Sch	6.0	1967			1507			C	43	C	A	S.Tritton	
+ROS076		"30"" Reflector"	Gainesville	USA FL	Rosemary Hill Obs.	Gainesville	USA FL	831	-5	–82 35.2	29 24.0	44			0.76	3.04	68	Rfl	3.0	1968	1990		9400							F.Reyes	
+ROZ050		50/70 cm Schmidt	Brussels	Belgium	Rozhen 	Rozhen 	Bulgaria	071	2	24 45.0	41 43.0	1760		0.50	0.70	1.72	120	Sch	4.5	1985	1994		300							T.Pauwels	
+ROZ050	***	50/70 cm Schmidt	Sofia	Bulgaria	Rozhen	Rozhen	Bulgaria	071	2	24 45.0	41 43.0	1760		0.50	0.70	1.72	120	Sch	4.5	1979	1994		7145			C	214	C	D	M.Tsvetkov	
+ROZ200	***	2m RCC	Rozhen	Bulgaria	Rozhen	Rozhen	Bulgaria	071	2	24 45.0	41 43.0	1760			2.00	16.00	13	RCr	1.0	1979	1993		2007			C			D	N.Petrov	
+SFO033		CdC Astrograph	San Fernando	Spain	Real Inst. y Obs. Armada	San Fernando	Spain	983	1	353 48.0	36 27.7	30		0.33		3.43	60	Ast	2.0	1891	1917		2520								
+SHA040	**		Shanghai	China 	Shanghai	Zo-Se	China 	337	6	121 11.2	31 05.8	100	2x	0.40		6.90	30	Ast	2.5	1901			3419			C				Zh.Tang	
+SID124	***	UKSTU 	Edinburgh	UK Scotland	Siding Spring	Coonabarabran	Australia	413	–10	149 04.2	–31 16.4	1145		1.24	1.83	3.07	67	Sch	6.4	1973			16866			C	1748	C	A	S.Tritton	
+SJO050			San Juan	Argentina	Felix Aguilar	San Juan	Argentina		–3	–68 37.2	–31 30.6	700		0.50		3.41	55	Ast	6.0				6000	:		T				C.Lopez	
+SKA030			Skalnate Pleso	Slovakia	Skalnate Pleso	Skalnate Pleso	Slovakia	056	1	20 14.7	49 11.3	1783		0.30		1.50	138	Ast	8.5	1965			7000			T			B	J.Svoren	
+SKA060			Skalnate Pleso	Slovakia	Skalnate Pleso	Skalnate Pleso	Slovakia	056	1	20 14.7	49 11.3	1783			0.60	3.30	63	Rfl	2.0	1946	1964		4000	:					B	J.Svoren	
+SON000A	***	Zeiss Tessar (Tel)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640				0.18	1150	Cam	38.3	1950	1950		48			C			A	P.Kroll	
+SON000B	***	Zeiss Tessar (Trs)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640				0.18	1180	Cam	39.3	1950	1951		204			C			A	P.Kroll	
+SON004		"Zeiss Tessar (d, delta,theta)"	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.04		0.18	1150	Cam	38.3	1950	1958		1424			T			A	P.Kroll	
+SON005	***	Zeiss Tessar	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.05		0.17	1250	Cam	41.7	1950	1956		2572			C			A	P.Kroll	
+SON006A	***	"Zeiss Triostar (L, Tr)"	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.21	980	Cam	32.7	1941	1953		3558			C			A	P.Kroll	
+SON006B	***	Zeiss Tessar (Te1)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.21	980	Cam	32.7	1953	1962		3194			C			A	P.Kroll	
+SON006C	***	Zeiss Tessar (Te5)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.21	980	Cam	32.7	1956	1962		2781			C			A	P.Kroll	
+SON006D	***	Zeiss Tessar (Te2)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1956			12439			C			A	P.Kroll	
+SON006E	***	Zeiss Tessar (Te3)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1956			12535			C			A	P.Kroll	
+SON006F	***	Zeiss Tessar (Te4)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1956			12531			C			A	P.Kroll	
+SON006G	***	Zeiss Tessar (Te6)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1957			11427			C			A	P.Kroll	
+SON006H	***	Zeiss Tessar (Te8)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			11212			C			A	P.Kroll	
+SON006I	***	Zeiss Tessar (Te13)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			9057			C			A	P.Kroll	
+SON006J	***	Zeiss Tessar (Te14)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			9050			C			A	P.Kroll	
+SON006K	***	Zeiss Tessar (Te15)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			9081			C			A	P.Kroll	
+SON006L	***	Zeiss Tessar (Te16)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			8668			C			A	P.Kroll	
+SON006M	***	Zeiss Tessar (Te17)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			8680			C			A	P.Kroll	
+SON006N	***	Zeiss Tessar (Te18)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			8679			C			A	P.Kroll	
+SON006O	***	Zeiss Tessar (Te19)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.06		0.25	830	Cam	30.0	1958			8804			C			A	P.Kroll	
+SON007A	***	Zeiss Tessar	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.07		0.25	830	Cam	30.0	1958			9344			C			A	P.Kroll	
+SON007B	***	Zeiss Tessar	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.07		0.25	830	Cam	30.0	1958			9337			C			A	P.Kroll	
+SON007C	***	Zeiss Tessar (Te20)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.07		0.25	830	Cam	30.0	1963	1965		925			C			A	P.Kroll	
+SON007D	***	Zeiss Tessar (Te21)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.07		0.25	830	Cam	30.0	1963	1965		942			C			A	P.Kroll	
+SON007E	***	Zeiss Tessar (Te22)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.07		0.25	830	Cam	30.0	1963	1965		906			C			A	P.Kroll	
+SON007F	***	Zeiss Tessar (Te23)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.07		0.25	830	Cam	30.0	1963	1965		890			C			A	P.Kroll	
+SON008A	***	Landscape Objective (C)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.08		0.37	560	Cam	18.7	1925	1939		300			C			A	P.Kroll	
+SON008B	***	Busch Objective (D)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.08		0.20	1030	Cam	34.3	1926	1928		193			C			A	P.Kroll	
+SON009	***	Zeiss Tessar (Te7)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.09		0.30	690	Cam	30.7	1957	1963		682			C			A	P.Kroll	
+SON010	***	"Tachar (T, Ta)"	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.10		0.25	830	Cam	27.7	1934	1956		7080			C			A	P.Kroll	
+SON014A	***	Ernemann Ernostar (E1)	Sonneberg	Germany	"Son.,Babel.,Windhoek "	"Son.,Babel.,Wind."	Germany	031	1	11 11.5	50 22.7	640		0.14		0.24	860	Cam	43.0	1926	1945		5256			C			A	P.Kroll	
+SON014B	***	Zeiss Ernostar (E2)	Sonneberg	Germany	"Son.,Babel.,Windhoek "	"Son.,Babel.,Wind."	Germany	031	1	11 11.5	50 22.7	640		0.14		0.24	860	Cam	43.0	1926	1945		6854			C			A	P.Kroll	
+SON014C	***	Ernemann Ernostar (E)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.14		0.24	860	Cam	43.0	1928	1957		11176			C			A	P.Kroll	
+SON014D	***	Zeiss Triplet (F)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.14		0.70	300	Cam	15.0	1928	1969		6248			C			A	P.Kroll	
+SON014E	***	Ernemann Ernostar (E3)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.14		0.24	860	Cam	43.0	1942	1945		1331			C			A	P.Kroll	
+SON014F		"Zeiss Tessar (WT, D)"	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.14		0.70	300	Cam	15.0	1950	1958		1423			T			A	P.Kroll	
+SON017	***	Zeiss Triplet (A)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.17		1.20	170	Cam	9.4	1923	1971		7976			C			A	P.Kroll	
+SON020	***	Double Schmidt (DS)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.20	0.30	0.30	690	Sch	11.5	1960	1976		5322			C			A	P.Kroll	
+SON035		Parabolic mirror (S)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640			0.35	1.40	150	Rfl	3.3	1936	1950		382			T			A	P.Kroll	
+SON040A	***	Zeiss Quadruplet (GA)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.40		1.60	130	Ast	10.8	1938	1945		1658			C			A	P.Kroll	
+SON040B	***	Zeiss Quadruplet (GB)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.40		2.00	100	Ast	8.3	1960			6998			C			A	P.Kroll	
+SON040C	***	Zeiss Quadruplet (GC)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.40		1.60	130	Ast	10.8	1961			11238			C			A	P.Kroll	
+SON050		50/70 cm Schmidt (Sc)	Sonneberg	Germany	Sonneberg	Sonneberg	Germany	031	1	11 11.5	50 22.7	640		0.50	0.70	1.72	120	Sch	4.3	1952			8900			TC			A	P.Kroll	
+SPR061			Swarthmore	USA PA	Sproul	Swarthmore	USA PA		–5	–75 21.4	39 54.3	63		0.61		10.93	19	Rfr	0.8	1911			100000			TC				E.Jensen	
+STE010	**		Moscow	Russia	Sternberg	Moscow	Russia	105	3	37 32.7	55 42.0	195		0.10		0.64		Cam	28.0	1895	1933		1100			TC				S.Shugarov	
+STE016	**		Moscow	Russia	Sternberg	Moscow	Russia	105	3	37 32.7	55 42.0	195		0.16		0.84		Rfr	22.0	1933	1956		2700			TC				S.Shugarov	
+SYD033		CdC Astrograph	Sydney	Australia	Sydney Obs.	Sydney	Australia	420	10	151 12.0	–33 51.7	44		0.33		3.43	60	Ast					20000							A.Vaughan	
+TAC033		CdC Astrograph	Mexico City	Mexico	Tacubaya Obs.	Mexico City	Mexico	724	-6	–99 08.0	19 26.0			0.33		3.43	60	Ast	2.0	1900	1938		1259								
+TAR016		Petzval Astrograph	Tartu	Estonia	Tartu	W. Struve Obs.	Estonia	075	1	26 28.0	58.16.0	 		0.16		0.78	264	Ast		1927	1987		4000			T			B	K.Annuk	
+TAR023			Pulkovo	Russia	Tarija St.	Tarija	Bolivia	820	–4	–64 30.0	–21 37.5	2000		0.23		2.26	91	Ast	4.0	1975			17000			TC			B	N.Bronnikova	
+TAS033		 	Tashkent	Uzbekistan	Tashkent Ast.Obs. 	Tashkent	Uzbekistan	 192	5	69 17.0	41 00.0	450	 	0.33		3.43	60	Ast	2.0	1895			3000							M.Muminov	
+TAS040A	**	DAZ	Kyiv	Ukraine	Tashkent Ast.Obs. 	Kitab Station	Uzbekistan	186	5	66 53.0	39 08.0	690	2x	0.40		3.00	69	Ast	5.5	1981	1989		96			C				V.Golovnya	
+TAS040A		DAZ	Tashkent	Uzbekistan	Tashkent Ast.Obs. 	Kitab Station	Uzbekistan	186	5	66 53.0	39 08.0	690	2x	0.40		3.00	69	Ast	6.0	1976			1000							M.Muminov	
+TAS040B	**	DAZ	Kyiv	Ukraine	Tashkent Ast.Obs. 	Kitab Station	Uzbekistan	186	5	66 53.0	39 08.0	690	2x	0.40		3.00	69	Ast	5.5	1981	1989		5			C				V.Golovnya	
+TAS040B		DAZ	Tashkent	Uzbekistan	Tashkent Ast.Obs. 	Kitab Station	Uzbekistan	186	5	66 53.0	39 08.0	690	2x	0.40		3.00	69	Ast	6.0	1976			1000							M.Muminov	
+TAU134	***		Tautenburg	Germany	Karl Schwarzschild	Tautenburg	Germany	033	1	11 42.8	50 58.9	331		1.34	2.00	4.00	52	Sch	3.4	1960			8141			C	944	C	A	H.Meusinger	
+TOK016	**		Mitaka	Japan	Tokyo	Mitaka	Japan	388	9	139 32.5	35 40.3	62		0.16		0.79	262	Cam	15.7	1943	1962		703			C				T.Nakamura	
+TOK020	**		Mitaka	Japan	Tokyo	Mitaka	Japan	388	9	139 32.5	35 40.3	62		0.20		1.27	162	Cam	9.7	1943	1962		5000			C				T.Nakamura	
+TON066			Tonantzintla	Mexico	Tonantzintla	Tonantzintla	Mexico		–6	–98 18.8	19 02.0	2150		0.66	0.76	2.17	95	Sch	5.5	1948	1995		10000	:						R.Hernandez	
+TOR020			Torun	Poland	Torun	Torun	Poland	092	1	18 33.3	53 05.8	91		0.20		1.50	138	Ast		1949			6000			TC				A.Wosczyk	
+TOR060	***		Torun	Poland	Torun	Torun	Poland	092	1	18 33.3	53 05.8	91		0.60	0.90	1.81	114	Sch	5.0	1962			134			C	2692	C		A.Wosczyk	
+TOU033		CdC Astrograph	Toulouse	France	University Obs.Toulouse	Toulouse	France	004	1	01 27.8	43 36.7 	195		0.33		3.43	60	Ast	2.0				10000							E. Davoust	
+TUR034	**		Tuorla	Finland	Turku Univ. Obs.	Tuorla	Finland	063	2	22 26.8	60 25.0	28			0.34	0.69	300	Rfl	10.0	1935			5000	 		C				L.Takalo	
+TUR050A	**		Tuorla	Finland	Turku Univ. Obs.	Tuorla	Finland	063	2	22 26.8	60 25.0	28		0.50	0.50	1.03	200	Sch	6.7	1935			5000	 		C				L.Takalo	
+TUR050B			Tuorla	Finland	Turku Univ. Obs.	Tuorla	Finland	063	2	22 26.8	60 25.0	40		0.50	0.60	1.03	200	Sch	5.5	1980			200			T				L.Takalo	
+TUR070			Tuorla	Finland	Turku Univ. Obs.	Tuorla	Finland	063	2	22 26.8	60 25.0	40		0.70	0.70	1.70	120	Sch	5.5	1975			500			T				T. Korhonen	
+UIO010		"4"" Ross Camera"	Williams Bay	USA WI	Uni. Illinois Obs.	Urbana-Champaign	USA IL		-6	–88 13.5	40 06.5	222		0.10		0.71	290	Cam	20.1	1939	1980		1050							K.Cudworth	
+UNI025			Flagstaff	USA AZ	Union	Johannesburg	South Africa	078	2	27 52.6	–25 46.4	1220		0.25		1.13	182	Cam	4.0	1950	1950		50							B.Skiff	
+UPS015			Uppsala	Sweden	Uppsala Obs.	Uppsala	Sweden	549	1	17 37.5	59 51.5	21		0.15		1.48	139	Ast	4.0	1914	1982		1400			C	400	C	D	N.Sjolander	
+UPS031			Uppsala	Sweden	Uppsala Obs.	Uppsala	Sweden	549	1	17 37.5	59 51.5	21		0.31	0.38	0.69	300	Sch	7.5	1941	1957		800			C	369	C	D	N.Sjolander	
+UPS050			Uppsala	Sweden	Uppsala South. St.	Mt. Stromlo Obs.	Australia	414	–10	149 00.5	–35 19.2	767		0.50	0.66	1.75	120	Sch	3.7	1957	1982		14000			C	4500	C	AD	N.Sjolander	
+UPS050			Uppsala	Sweden	Uppsala South. St.	Siding Spring Obs.	Australia	413	–10	149 04.2	–31 16.5	1145		0.50	0.66	1.75	120	Sch	3.7	1982	1987		1500			C			AD	N.Sjolander	
+UPS100			Uppsala	Sweden	Kvistaberg Obs.	Bro	Sweden	049	1	17 36.4	59 30.1			1.00	1.35	2.99	69	Sch	4.0	1963	1999		2339			C	867	C	D	N.Sjolander	
+VAT033		Photographic Doublet	Castel Gandolfo	Vatican	Vatican	Castel Gandolfo	Vatican	036	1	12 39.1	41 44.8	450		0.33		3.43	60	Ast	4.2	1894	1953		1700			C				A.Omizzolo	
+VAT033		Photographic Doublet	Serra la Nave	Italy	Catania	Castel Gandolfo	Vatican	036	1	12 39.1	41 44.8	450		0.33		3.43	60	Ast	4.2	1960			30							E.Marilli	
+VAT040		Zeiss Refractor Quadruplet	Castel Gandolfo	Vatican	Vatican	Castel Gandolfo	Vatican	036	1	12 39.1	41 44.8	450		0.40		2.00	103	Ast	8.0	1935	1974		1625			C	3111	C		A.Omizzolo	
+VAT063		63/98 Schmidt	Castel Gandolfo	Vatican	Vatican	Castel Gandolfo	Vatican	036	1	12 39.1	41 44.8	450		0.63	0.98	2.40	86	Sch	4.5	1957	1986		794			C	1326	C		A.Omizzolo	
+VIE034			Vienna	Austria	Vienna Univ. Obs.	Vienna	Austria	045	1	16 20.2	48 13.9	241		0.34		0.68	140	Ast	5.5	1910			250	:					B	A.Schnell	
+VIE067			Vienna	Austria	Vienna Univ. Obs.	Vienna	Austria	045	1	16 20.2	48 13.9	241		0.67		10.58	19	Rfr	3.3	1982			200	:					B	A.Schnell	
+VVL051		Clark Refractor	Middletown	USA CT	Van Vleck Obs.	Middletown	USA CT	298	-5	–72 39.5	41 33.3	12		0.51				Rfr	1.0	1925	1995		20000							W.Herbst	
+WIN005		Zeiss Tessar	Sonneberg	Germany	Windhoek St.	Windhoek	Namibia		2	17 03.8	–22 35.4	1685		0.05		0.16	1250	Cam	42.0	1952	1953		1912			T			A	P.Kroll	
+WIN013		"Zeiss Ernostar (UE, WE)"	Sonneberg	Germany	Windhoek St.	Windhoek	Namibia		2	17 03.8	–22 35.4	1685		0.13		0.24	860	Cam	43.0	1934	1938		1975			T			A	P.Kroll	
+WSO061		Burrell Schmidt	Flagstaff	USA AZ	Warner and Swasey	East Cleveland	USA OH	773	-5	–81 34.1	41 32.2	247		0.61	0.91	2.14	97	Sch	5.2								1000			B.Skiff	
+WSO061		Burrell Schmidt	Montarey	USA CA	Warner and Swasey	East Cleveland	USA OH	773	-5	–81 34.1	41 32.2	247		0.61	0.91	2.14	97	Sch	5.2	1941	1970		300							B.Weaver	
+WSO061		Burrell Schmidt	Muncie	USA IN	Warner and Swasey	Kitt Peak	USA AZ	773	–7	–111 35.9	31 57.6	2084		0.61	0.91	2.14	97	Sch	5.2	1977	1986		140							T.Roberson	
+WSO061		Burrell Schmidt	Rosman	USA NC	Warner and Swasey	East Cleveland	USA OH	773	-5	–81 34.1	41 32.2	247		0.61	0.91	2.14	97	Sch	5.2	1941	1957		4000				7000	C		T.Barker	
+WSO061		Burrell Schmidt	Rosman	USA NC	Warner and Swasey	Montville	USA OH	774	-5	–81 04.5	41 35.0	400		0.61	0.91	2.14	97	Sch	5.2	1957	1979		3000				7000	C		T.Barker	
+WSO061		Burrell Schmidt	Rosman	USA NC	Warner and Swasey	Kitt Peak	USA AZ	773	–7	–111 35.9	31 57.6	2084		0.61	0.91	2.14	97	Sch	5.2	1979	1993		1000							T.Barker	
+YAL066		"26"" Yale-Columbia Refractor"	Charlottesville	USA VA	Johannesburg Yale St.	Johannesburg	South Africa	081	2	27 52.6	–26 10.9	1806		0.66		10.86	19	Rfr		1925	1952		35000							R.Patterson	
+YAL066		"26"" Yale-Columbia Refractor"	Charlottesville	USA VA	Yale-Columbia St.	Mt. Stromlo	Australia	414	10	149 00.5	–35 19.2	767		0.66		10.86	19	Rfr		1952	1992		35000							R.Patterson	
+YAL066			Leiden	Netherlands	Yale-Columbia St.	Johannesburg	South Africa	077	2	28 01.8	–26 11.5	1750		0.66		10.96	19	Rfr		1925	1955		250	:		T			A	I.van Houten	
+YAL066			Leiden	Netherlands	Yale-Columbia St.	Mt. Stromlo	Australia	414	10	149 00.5	–35 19.2	767		0.66		10.96	19	Rfr		1955			250	:		T			A	I.van Houten	
+YER025		Bruce Astrograph	Williams Bay	USA WI	Yerkes Obs. Chicago Uni.	Williams Bay	USA WI	754	-6	–88 33.4	42 34.2	334		0.25		1.28	119	Ast	7.0	1905			270			TC				K.Cudworth	
+YER060		"23 1/2"" Reflector"	Williams Bay	USA WI	Yerkes Obs. Chicago Uni.	Williams Bay	USA WI	754	-6	–88 33.4	42 34.2	334			0.60	2.40	86	Rfl	2.0	1900	1930		15000							K.Cudworth	
+ZVE040		Astrograph	Zvenigorod	Russia	Zvenigorod Obs.	Zvenigorod	Russia	102	3	36 45.5	55 42.0	236		0.40		2.00	16	Ast	8.5	1978	1989		4255			TC				S.Vereschagin	
+																															
+																															
+																															
+																															
