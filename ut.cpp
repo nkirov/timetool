@@ -310,6 +310,9 @@ QString Ut::convJD(QString s)
     const int TIME = 28;
     QString ss = s.mid(TIME, 12);
     QStringList qss = ss.split('.');
+    if (qss.size() == 1 && qss[0][0] == ' ')
+        //                      12345678901234
+        return  s.left(TIME) + "              " + s.mid(TIME+14);
     qss[1] = "0." + qss[1];
 qDebug() << qss[0] << qss[1];
     qlonglong jd = qss[0].toLongLong();
@@ -440,6 +443,7 @@ void Ut::observatory(int index)
 {
 qDebug() << "observatory" << index;
 	QString line(obss[base + index]);
+qDebug() << line;
 	QStringList row = line.split('\t');
 	timezone = row[13].toInt();
 	longitude = hours(row[13].left(row[13].indexOf(' ')).toInt(), 
