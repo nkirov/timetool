@@ -21,12 +21,12 @@ For MS Windows add<br>
 CONFIG += console<br>
 in .pro file.
 
-N. Kirov, M. Tsvetkov, K. Tsvetkova, Technology for digitization of astronomical photographic plates, In: Proceedings of the<br> 
+N. Kirov, M. Tsvetkov, K. Tsvetkova, Technology for digitization of astronomical photographic plates, In: Proceedings of the
 8th Annual International Conference on Computer Science and Education in Computer Science, 5–8 July 2012, Boston, USA, 109-114.<br>
 (http://nikolay.kirov.be/zip/nkirov_boston_updated.pdf)
 
-N. Kirov, M. Tsvetkov, K. Tsvetkova, WFPDB: Software for Time and Coordinates Conversions, In: Proceedings of the IX Bulgarian-Serbian Astronomical Conference: Astroinformatics, (IX BSACA) <br>
-Sofia, Bulgaria, July 2-4, 2014, Editors: M. K. Tsvetkov, M. S. Dimitrijevi?c, O. Kounchev, D. Jevremovi?c <br>
+N. Kirov, M. Tsvetkov, K. Tsvetkova, WFPDB: Software for Time and Coordinates Conversions, In: Proceedings of the IX Bulgarian-Serbian Astronomical Conference: Astroinformatics, (IX BSACA)
+Sofia, Bulgaria, July 2-4, 2014, Editors: M. K. Tsvetkov, M. S. Dimitrijevi?c, O. Kounchev, D. Jevremovi?c 
 and K. Tsvetkova, Publ. Astron. Soc. ?Rudjer Bo?skovi?c? No 15, 2015, 43-48.<br>
  (http://nikolay.kirov.be/zip/06.pdf)
 
