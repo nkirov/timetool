@@ -380,6 +380,7 @@ qDebug() << "newfile:" << s;
 			filename = s;
 			QString ss;
 			if (ui.LT2UT->isChecked()) ss = "_lt";
+            else if (ui.JD2UT->isChecked()) ss = "_jd";
 			else ss = "_st";
 			s = ui.file->text() + ui.label4->text();
 			ui.outfile->setText(s.replace(ss, "_ut"));

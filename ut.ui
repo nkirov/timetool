@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Time contertion tool, v.2.0, 26.12.2015</string>
+   <string>Time contertion tool, v.2.1, 16.05.2016</string>
   </property>
   <layout class="QFormLayout" name="formLayout">
    <property name="fieldGrowthPolicy">
